@@ -1,156 +1,100 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BD: AAKASH AATH BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b3825e.png" group-title="BENGALI" ,BD: AAKASH AATH BANGLA
-http://195.26.87.217/live.ts?channelId=79&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: AAMAR CINEMA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a3ba2a4.png" group-title="BENGALI" ,BD: AAMAR CINEMA
-http://195.26.87.217/live.ts?channelId=44163&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ABP ANANDA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI" ,BD: ABP ANANDA FHD
-http://195.26.87.217/live.ts?channelId=40480&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ABP ANANDA INTERNATIONAL FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a9682a5.png" group-title="BENGALI" ,BD: ABP ANANDA INTERNATIONAL FHD
-http://195.26.87.217/live.ts?channelId=44160&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ANANDA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8855a16.png" group-title="BENGALI" ,BD: ANANDA TV FHD
-http://195.26.87.217/live.ts?channelId=90255&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ASIAN TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9a53b71.png" group-title="BENGALI" ,BD: ASIAN TV FHD
-http://195.26.87.217/live.ts?channelId=80&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ATN BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9370f9a.png" group-title="BENGALI" ,BD: ATN BANGLA FHD
-http://195.26.87.217/live.ts?channelId=81&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ATN BANGLA HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9666288.png" group-title="BENGALI" ,BD: ATN BANGLA HD UK
-http://195.26.87.217/live.ts?channelId=82&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ATN NEWS FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3d373fe.png" group-title="BENGALI" ,BD: ATN NEWS FHD
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
+https://livess.ncare.live/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV World
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
+http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8nRyyAu.png" group-title="BANGLADESHI", Sangsad Tv
+#http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somoy Tv
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent Tv
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="BANGLADESHI", Ekattor Tv
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="BANGLADESHI", Ntv
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="BANGLADESHI", Channel I
+https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESHI", My Tv
+https://myflixbd.com/0.m3u8
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="BANGLADESHI", Deepto tv
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="BANGLADESHI", Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="BANGLADESHI", T Sports
+https://live-cdn.tsports.com/live-02/master_854.m3u8
+
+#EXTINF: -1 tvg-logo="https://rb.gy/fi4kqf" group-title="BANGLADESHI", DESH TV
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
+https://ythls.armelin.one/channel/UCAIEufoszs1J38-pKECORRg.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BANGLADESHI", Mohona Tv
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d1zRBNr.png" group-title="BANGLADESHI", Channel 9
+hhttp://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="BANGLADESHI", Satv
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://rb.gy/556lm5" group-title="BANGLADESHI", Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png" group-title="BANGLADESHI", Bangla Tv
+https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BANGLADESHI", Atn News
 http://195.26.87.217/live.ts?channelId=83&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla 21 TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3c0ab28.png" group-title="BENGALI" ,BD: Bangla 21 TV FHD
-http://195.26.87.217/live.ts?channelId=90252&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: BANGLA VISION FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0501848.png" group-title="BENGALI" ,BD: BANGLA VISION FHD
-http://195.26.87.217/live.ts?channelId=84&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: BIJOY TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/35e8292.png" group-title="BENGALI" ,BD: BIJOY TV FHD
-http://195.26.87.217/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: BISWA BANGLA 24 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d9e8b2a.png" group-title="BENGALI" ,BD: BISWA BANGLA 24 FHD
-http://195.26.87.217/live.ts?channelId=90253&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: BOISHAKHI TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4f0ebd2.png" group-title="BENGALI" ,BD: BOISHAKHI TV FHD
-http://195.26.87.217/live.ts?channelId=86&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: BOISHAKHI TV PLUS FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/25f6253.png" group-title="BENGALI" ,BD: BOISHAKHI TV PLUS FHD
-http://195.26.87.217/live.ts?channelId=90832&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: CAN BANGLA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/424eba2.png" group-title="BENGALI" ,BD: CAN BANGLA TV FHD
-http://195.26.87.217/live.ts?channelId=74619&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 24 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/64a57f7.png" group-title="BENGALI" ,BD: CHANNEL 24 FHD
-http://195.26.87.217/live.ts?channelId=87&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 9 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a4df804.png" group-title="BENGALI" ,BD: CHANNEL 9 FHD
-http://195.26.87.217/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL I FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/458b683.png" group-title="BENGALI" ,BD: CHANNEL I FHD
-http://195.26.87.217/live.ts?channelId=89&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: Channel S HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5e0f18a.png" group-title="BENGALI" ,BD: Channel S HD UK
-http://195.26.87.217/live.ts?channelId=91&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: COLORS BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0470894.png" group-title="BENGALI" ,BD: COLORS BANGLA FHD
-http://195.26.87.217/live.ts?channelId=92&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DBC NEWS FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cdb82e2.png" group-title="BENGALI" ,BD: DBC NEWS FHD
-http://195.26.87.217/live.ts?channelId=29197&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DD BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f9e40a0.png" group-title="BENGALI" ,BD: DD BANGLA
-http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DESHE BIDESHE TV CANADA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/817b1cc.png" group-title="BENGALI" ,BD: DESHE BIDESHE TV CANADA FHD
-http://195.26.87.217/live.ts?channelId=74620&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DESH TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cccb3a0.png" group-title="BENGALI" ,BD: DESH TV FHD
-http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DHOOM MUSIC BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cdfa406.png" group-title="BENGALI" ,BD: DHOOM MUSIC BANGLA
-http://195.26.87.217/live.ts?channelId=94&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DISCOVERY CHANNEL BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/69fbad8.png" group-title="BENGALI" ,BD: DISCOVERY CHANNEL BANGLA FHD
-http://195.26.87.217/live.ts?channelId=44153&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DOYEL TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ae40010.png" group-title="BENGALI" ,BD: DOYEL TV FHD
-http://195.26.87.217/live.ts?channelId=74622&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: DURONTO TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/40bbf33.png" group-title="BENGALI" ,BD: DURONTO TV
-http://195.26.87.217/live.ts?channelId=74553&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: EKATTOR TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1b0585e.png" group-title="BENGALI" ,BD: EKATTOR TV FHD
-http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: EKUSHEY TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d1b2b01.png" group-title="BENGALI" ,BD: EKUSHEY TV BANGLA
-http://195.26.87.217/live.ts?channelId=96&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ENTERR 10 MOVIES" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ef5d237.png" group-title="BENGALI" ,BD: ENTERR 10 MOVIES
-http://195.26.87.217/live.ts?channelId=48006&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: GAAN BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ef8fe5b.png" group-title="BENGALI" ,BD: GAAN BANGLA FHD
-http://195.26.87.217/live.ts?channelId=97&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: GAZI TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c1cf9a.png" group-title="BENGALI" ,BD: GAZI TV FHD
-http://195.26.87.217/live.ts?channelId=98&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: GLOBAL TV BANGLADESH FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/78b4d3f.png" group-title="BENGALI" ,BD: GLOBAL TV BANGLADESH FHD
-http://195.26.87.217/live.ts?channelId=90302&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: INDEPENDENT TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/342301c.png" group-title="BENGALI" ,BD: INDEPENDENT TV FHD
-http://195.26.87.217/live.ts?channelId=99&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ION TV UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfae364.png" group-title="BENGALI" ,BD: ION TV UK
-http://195.26.87.217/live.ts?channelId=90230&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: JAMUNA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c53b92d.png" group-title="BENGALI" ,BD: JAMUNA TV FHD
-http://195.26.87.217/live.ts?channelId=100&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: JONMOBHUMI TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c5e24e7.png" group-title="BENGALI" ,BD: JONMOBHUMI TV FHD
-http://195.26.87.217/live.ts?channelId=90297&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
-http://195.26.87.217/live.ts?channelId=44162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: KOLKATA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e7d0922.png" group-title="BENGALI" ,BD: KOLKATA TV
-http://195.26.87.217/live.ts?channelId=44151&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MAASRANGA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/05fc92c.png" group-title="BENGALI" ,BD: MAASRANGA TV FHD
-http://195.26.87.217/live.ts?channelId=101&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MILLENNIUM TV 24 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e577251.png" group-title="BENGALI" ,BD: MILLENNIUM TV 24 FHD
-http://195.26.87.217/live.ts?channelId=74621&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MILLENNIUM TV USA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c11f0a5.png" group-title="BENGALI" ,BD: MILLENNIUM TV USA FHD
-http://195.26.87.217/live.ts?channelId=44161&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MOHONA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bae4070.png" group-title="BENGALI" ,BD: MOHONA TV FHD
-http://195.26.87.217/live.ts?channelId=103&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MOVIES BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c27b9d9.png" group-title="BENGALI" ,BD: MOVIES BANGLA FHD
-http://195.26.87.217/live.ts?channelId=104&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: MY TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6a23fc3.png" group-title="BENGALI" ,BD: MY TV FHD
-http://195.26.87.217/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NANDAN TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e3c6947.png" group-title="BENGALI" ,BD: NANDAN TV FHD
-http://195.26.87.217/live.ts?channelId=74623&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NAN TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7f02d9a.png" group-title="BENGALI" ,BD: NAN TV FHD
-http://195.26.87.217/live.ts?channelId=90296&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NEWS18 BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c71fdcc.png" group-title="BENGALI" ,BD: NEWS18 BANGLA FHD
-http://195.26.87.217/live.ts?channelId=47440&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NEWS 24 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/69d0e8f.png" group-title="BENGALI" ,BD: NEWS 24 FHD
-http://195.26.87.217/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NEWS TIME BANGLA TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/730f3d9.png" group-title="BENGALI" ,BD: NEWS TIME BANGLA TV
-http://195.26.87.217/live.ts?channelId=108&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NEXUS TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dafd243.png" group-title="BENGALI" ,BD: NEXUS TV FHD
-http://195.26.87.217/live.ts?channelId=90300&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NRB TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e2123f5.png" group-title="BENGALI" ,BD: NRB TV FHD
-http://195.26.87.217/live.ts?channelId=74625&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NTV BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5e80f1e.png" group-title="BENGALI" ,BD: NTV BANGLA FHD
-http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: NTV BANGLA UK FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/cf7136f.png" group-title="BENGALI" ,BD: NTV BANGLA UK FHD
-http://195.26.87.217/live.ts?channelId=110&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: RPLUS NEWS" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/178a27b.png" group-title="BENGALI" ,BD: RPLUS NEWS
-http://195.26.87.217/live.ts?channelId=22781&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: RTV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c49de0f.png" group-title="BENGALI" ,BD: RTV FHD
-http://195.26.87.217/live.ts?channelId=112&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: RTV MUSIC FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2afab5c.png" group-title="BENGALI" ,BD: RTV MUSIC FHD
-http://195.26.87.217/live.ts?channelId=90301&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: RUPOSHI BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/af5f17b.png" group-title="BENGALI" ,BD: RUPOSHI BANGLA
-http://195.26.87.217/live.ts?channelId=113&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: SANGEET BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/33b8bba.png" group-title="BENGALI" ,BD: SANGEET BANGLA
-http://195.26.87.217/live.ts?channelId=38893&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: SA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/485b2b0.png" group-title="BENGALI" ,BD: SA TV FHD
-http://195.26.87.217/live.ts?channelId=114&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: SHREE BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/286e4aa.png" group-title="BENGALI" ,BD: SHREE BANGLA FHD
-http://195.26.87.217/live.ts?channelId=90299&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: SOMOY NEWS FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9d89ea7.png" group-title="BENGALI" ,BD: SOMOY NEWS FHD
-http://195.26.87.217/live.ts?channelId=115&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: SONY AATH FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1fd2c40.png" group-title="BENGALI" ,BD: SONY AATH FHD
-http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: STAR JALSHA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/25e6462.png" group-title="BENGALI" ,BD: STAR JALSHA FHD
-http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: STAR JALSHA FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/25e6462.png" group-title="BENGALI" ,BD: STAR JALSHA FHD.
-http://195.26.87.217/live.ts?channelId=116592&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: STAR JALSHA MOVIES FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/277cbc3.png" group-title="BENGALI" ,BD: STAR JALSHA MOVIES FHD
-http://195.26.87.217/live.ts?channelId=117&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: THE CHANNEL TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/12a2d5c.png" group-title="BENGALI" ,BD: THE CHANNEL TV FHD
-http://195.26.87.217/live.ts?channelId=90304&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: TIME TELEVISION USA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2be9da.png" group-title="BENGALI" ,BD: TIME TELEVISION USA FHD
-http://195.26.87.217/live.ts?channelId=118&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: TV9 BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1638604.png" group-title="BENGALI" ,BD: TV9 BANGLA FHD
-http://195.26.87.217/live.ts?channelId=90234&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: TV ONE UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1726717.png" group-title="BENGALI" ,BD: TV ONE UK
-http://195.26.87.217/live.ts?channelId=44164&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: VARENDRA TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/32cc48b.png" group-title="BENGALI" ,BD: VARENDRA TV FHD
-http://195.26.87.217/live.ts?channelId=90305&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: VOICE TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f681c8e.png" group-title="BENGALI" ,BD: VOICE TV FHD
-http://195.26.87.217/live.ts?channelId=90306&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE 24 GHANTA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/671d049.png" group-title="BENGALI" ,BD: ZEE 24 GHANTA
-http://195.26.87.217/live.ts?channelId=78&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA CINEMA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/eee0e0e.png" group-title="BENGALI" ,BD: ZEE BANGLA CINEMA
-http://195.26.87.217/live.ts?channelId=119&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="BD: ZEE BANGLA FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8067afa.png" group-title="BENGALI" ,BD: ZEE BANGLA FHD
-http://195.26.87.217/live.ts?channelId=120&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png" group-title="BANGLADESHI", Atn Bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png" group-title="BANGLADESHI", Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI", Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+
+
