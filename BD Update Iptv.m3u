@@ -1,17 +1,17 @@
 
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="BANGLADESHI", BTV National
-https://livess.ncare.live/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV National
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/eJS0vGk.jpg" group-title="BANGLADESHI", BTV World
-https://www.btvlive.gov.bd/streams/06e2e759-c214-484b-bf90-87caa71cadd1/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV World
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/r2YjB0s.png" group-title="BANGLADESHI", BTV Chottogram
-http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV Chattogram
+http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8nRyyAu.png" group-title="BANGLADESHI", Sangsad Tv
-#http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png",BTV Sangsad
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
