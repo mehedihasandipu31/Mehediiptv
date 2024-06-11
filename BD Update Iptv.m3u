@@ -62,10 +62,10 @@ https://live-cdn.tsports.com/live-02/master_854.m3u8
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+http://195.26.87.217/live.ts?channelId=84&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
-https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+http://195.26.87.217/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="BANGLADESHI", Boishakhi Tv
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
