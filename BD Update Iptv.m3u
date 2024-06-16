@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="BANGLADESHI", BTV WORLD
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1718755215&md5=E8HELR0hkh5vSulP5PGtfg&user=c15be118d93a464dabf77260596012cf
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="LIVE EVENT", T20 (1)
 http://113.212.111.246:8080/hls/col12.m3u8
 
@@ -14,13 +11,15 @@ http://192.168.91.8/streams/118/index.m3u8
 https://hdstreamz.vip/sports/mu1.php?e=.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="LIVE EVENT", T20 (4)
-http://192.168.91.8/streams/120/index.m3u8
+http://192.168.91.8/streams/117/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="BANGLADESHI", Independent Tv
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
@@ -30,9 +29,11 @@ https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
 https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg" group-title="BANGLADESHI", Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
@@ -42,6 +43,7 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png" group-title="BANGLADESHI", Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
@@ -68,6 +70,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 http://195.26.87.217/live.ts?channelId=84&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png" group-title="BANGLADESHI", Bijoy Tv
