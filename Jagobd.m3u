@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="https://rb.gy/ubykw0" group-title="BANGLADESHI", Somoy Tv
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="BANGLADESHI", Jamuna Tv
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="BANGLADESHI", DBC News
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="BANGLADESHI", News 24
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BANGLADESHI", R tv
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" group-title="BANGLADESHI", Bangla Vision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
