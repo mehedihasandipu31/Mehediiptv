@@ -1,57 +1,124 @@
-[
-  {
-    "name": "Channel-1 English VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719108254:KeyName=prod_live_events:Signature=z6DUEtIszAZs5g96nGZUT7Gxvld6LubaU65k0TqctFy-R5kNavbO2XpEi2J5daCGyVCUr8bVLNROR08BXvhKDw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Channel-2 Bangla VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1719108283:KeyName=prod_live_events:Signature=G2YlGhzFsWStVRb4S1mob0_pMx0a3F2-dgoHP0bxs6GAGQN7uDuPNe0xrHIyGvRyVbofEEMAvI9PtR5SVcexDw",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Dramas VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719230798:KeyName=prod_linear:Signature=EFy-A0t0zaocACmU06omil_BFDBjQq5gfrfmT9jFXvqGyf0Q-1NbJTjjPfr4H6lLHF-WELcYtHlfZBP9n4sFBQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Movies VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719230798:KeyName=prod_linear:Signature=EFy-A0t0zaocACmU06omil_BFDBjQq5gfrfmT9jFXvqGyf0Q-1NbJTjjPfr4H6lLHF-WELcYtHlfZBP9n4sFBQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "TOFFEE Sports VIP",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1719230798:KeyName=prod_linear:Signature=EFy-A0t0zaocACmU06omil_BFDBjQq5gfrfmT9jFXvqGyf0Q-1NbJTjjPfr4H6lLHF-WELcYtHlfZBP9n4sFBQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+
+#EXTM3U
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png ", ATN BANGLA
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=HoVfCJFqqeqIglI0IGWKTw&expires=1720847945&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", ATN NEWS
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=n4_wd2RD4jD7zgWIhxTtiQ&expires=1720847979&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/Sc355VB/png-clipart-al-jazeera-english-al-jazeera-documentary-channel-al-jazeera-media-network-news-arabic-c.png ", ALJAZEERA
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=uNcFoQpjyQT7IVKKrah56w&expires=1720848009&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", BBC LIFESTYLE 
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=hJlNSwm-3Nr_dYXEWSkFzg&expires=1720848085&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.ibb.co/7zgZF11/bbc-news-logo-8648-ABD044-seeklogo-com.png ",BBC WORLD
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=uuM8AHSx5_BlxfSTQHL82g&expires=1720848110&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", BANGLA VISION
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=ZqAHr4mbMdU_yTQPGyIZ4A&expires=1720848136&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png ", BOISHAKHI
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=CTyU8FpsCn5OGfql48M5Sg&expires=1720848159&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CBEEBIES ASIA
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=TtqYakplCCeQlANVZ1dwOQ&expires=1720848183&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CGTN NEWS
+https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=AInM58oQa6IVhS4H3FA5Lw&expires=1720848210&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://i.im.ge/2024/06/18/KkDZlW.1000012705.png ",CNN
+https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=p79DxsxxhkFoiobuESuj8w&expires=1720848251&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CHANNEL 24
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=q29Vd_51Tnh6ogzFkPa7lQ&expires=1720848293&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CHANNEL 9
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=STpWDyJcGRwzU1_YJaE7ww&expires=1720848316&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", CHANNEL I
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=BqMziZ11MJlSfwt0qBzsTw&expires=1720848342&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", DW
+https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8?md5=Dwo34Te4Gv69APj9N371uw&expires=1720848366&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", DESH TV
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=4VgSiyFJojHbzTtmEZ1PlA&expires=1720848423&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg ", DURONTO
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=uMKI0K9qq7t4T7Z3RdzJtw&expires=1720848450&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png ", EKATTOR
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=EQyhrAtm2Ut2qcuZ2wKE7Q&expires=1720848473&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png ", EKUSHEY 
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=AnsSVOk3PO1TSus79Ccdsg&expires=1720848503&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", GAAN BANGLA 
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/playlist.m3u8?md5=epQofq3G6naZhMkoKxIxTQ&expires=1720848530&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", Gtv
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=6XkgNBZ9xtPbF8VwKAX7zg&expires=1720848555&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", INDEPENDENT 
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=YgP0sUk0CoGjOb8dZF4I8Q&expires=1720848627&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", JAMUNA
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=kS3nV2LHa4bIri560yp_2w&expires=1720848650&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", LOTUS
+https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=JyFUgHwlUgujubqfaoKsOA&expires=1720848694&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", MAASRANGA 
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=UNwwXkX6M0IYHaPPfnVjdQ&expires=1720848714&user=d477246e9e724f81a011b847457e71c4 
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png ", NTV
+https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=i2PaObbSpsu6I_zMFPsqMA&expires=1720848776&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", NAGORIK 
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=MuSKPlmdsRAsuHkEJZo-qQ&expires=1720848810&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", NEWS 24
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=IeYMtH54mKZI-XAlqQQN6g&expires=1720848830&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", NEXUS
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=KOPZ7XJj2FpdNxuCivRaDA&expires=1720848853&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png ", RTV
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=u6-a0xMQKGr4XGSoiSRVFQ&expires=1720848896&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", SATV
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=uODtYFkLYIU3hkAnLuxqcA&expires=1720848918&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", SOMOY
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=Ob2zwVEjsQ7ThBJ_QtW25Q&expires=1720848937&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", T SPORTS
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=aBSsp1eL6HDK0jexfJxdkQ&expires=1720848959&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", ZEE BANGLA
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=KZe6d91WNfwsAxm1aund6g&expires=1720848979&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", ZEE CINEMA
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=S5wUDB2Zmi76PGo-90X_Iw&expires=1720848998&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", ZEE TV
+https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=1G-mrHtAmKLIv881_s0tMA&expires=1720849023&user=d477246e9e724f81a011b847457e71c4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
