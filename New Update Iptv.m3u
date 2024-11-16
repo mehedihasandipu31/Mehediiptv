@@ -1,0 +1,139 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg", mytv
+https://app.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
+https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.png",SOMOY TV
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/ds3aThu.jpg",JAMUNA TV
+https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/AMk8mRZ.png",INDEPENDENT
+https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png",DBC News
+https://app.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/FxsW4XI.png",NEWS 24 HD
+https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/MmhxR5E.png",CHANNEL 24 HD
+https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png", N TV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV HD
+https://app.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/tPZKfLr.png",DEEPTO TV
+https://app.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/HX8SSDA.png",BANGLAVISION
+https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/PtHQgVz/Maasranga-TV-Farid.jpg", Maasranga TV 
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/kDmkexe.png",BIJOY TV
+https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",Desh TV
+https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/pTJSGtj.png",BOISHAKHI TV
+https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9
+https://app.ncare.live/live-orgin/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png",ATN NEWS
+https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN BANGLA
+https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/X2xm07j/ekusheytv-Farid.jpg", Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/h5FhOWT.png",ANANDO TV
+https://app.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="IND MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png",9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 group-title="IND MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/9jal.png",9X Jalwa
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
+#EXTINF:-1 group-title="IND MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xjha.png",9X Jhakaas
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/index.m3u8
+#EXTINF:-1 group-title="IND MUSIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xtah.png",9X Tashan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla HD
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",Zee Bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/PrWhyvnN/g9OTeXV.png",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/KbMz5W1/Discovery-Farid.png", Discovery Bangla
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/Discovery_bn.m3u8
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/VTgWZjk/Animal-Planet-Farid.png", Animal Planet
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/AnimalPlanet_en.m3u8
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sg1hVcy/Discovery-Science-Farid.jpg", Discovery Science
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryScience_en.m3u8
+#EXTINF:-1 tvg-id="akash5" tvg-logo="https://i.ibb.co.com/sKbWwNs/Discovery-Turbo-Farid.png", Discovery Turbo
+https://raw.githubusercontent.com/FaridMahmud/Channel/Stream/DiscoveryTurbo_en.m3u8
+
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
+https://la.drmlive.au/tp/zee-zeetvhd.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmol.png",ZEE ANMOL
+https://la.drmlive.au/tp/zee-zeeanmol.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
+http://cdn.moviemazic.xyz:8083/SonyMaxHD/tracks-a1/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/zcine.png",ZEE CINEMA SD
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhap.png",AND PICTURES HD
+https://la.drmlive.au/tp/zee-pictures.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png",ZEE ACTION HD
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmolcinema.png",ZEE ANMOL CINEMA
+https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
+
+#EXTINF:-1 tvg-id="akash43" tvg-logo="https://i.ibb.co.com/GMS4CRn/Sports18-Farid.jpg", Sports18
+https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6GTyB1/images-3.jpg",Discovery Kids 
+https://dplus.gammacdn.workers.dev/videos/113.m3u8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
