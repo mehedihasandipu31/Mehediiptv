@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="akash19" tvg-logo="https://i.ibb.co.com/QMyhqHm/mytv-Farid.jpg", mytv
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8 
+https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.png",SOMOY TV
@@ -21,7 +21,7 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV HD
 https://app.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/tPZKfLr.png",DEEPTO TV
-https://app.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/HX8SSDA.png",BANGLAVISION
