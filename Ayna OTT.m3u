@@ -1,0 +1,70 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Nayeem's BDCast",Deepto TV HD
+https://tvs2.aynaott.com/deeptotv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=6c5a55ff0ab64f0852d6582347c13d75a0354d01-11b21c0cea226c3fb65be6dc0d954b10-1743688051-1743687151
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="Nayeem's BDCast",Somoy News
+https://tvsen2.aynascope.net/8b9qxpFy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Nayeem's BDCast",ATN Bangla HD
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=bb111d032d60f90a641640bfd95b3e7bc663e05c-b67068b00aef50199428bcfda828c5a5-1743688118-1743687218
+#EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Nayeem's BDCast",Asian TV
+https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=b9298da6222aa6440d5d96ae916bbda3b58c69c3-002a3852b905b829f5ef09bbb563b1f1-1743688166-1743687266
+#EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Nayeem's BDCast",Bangla Vision HD
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=f72e09ca523ddf108c3ae435f5b7cb301c1112cb-5adbacc09e48619100a3d8363a81e583-1743688187-1743687287
+#EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="Nayeem's BDCast",ATN News
+https://tvs1.aynaott.com/atnnews/tracks-a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=1469aa97020dca5c2b40125ac0c6324519d1c5ad-27c5d7ee4eaf9931e6ffe3f330a1d4ba-1743688209-1743687309
+#EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Nayeem's BDCast",Bioshakhi TV
+https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=0edca64278addf6c4a5822b53ee46e302b7c6074-79e05f8c585b8153425a4432e85e00f2-1743688242-1743687342
+#EXTINF:-1 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Nayeem's BDCast",Channel 9 HD
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=afdc383d55c57786cd1ac0507ecb2f4857acfa89-47b0e29fc731fc78afbebc288772363f-1743688286-1743687386
+#EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="Nayeem's BDCast",Channel 24
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=b3eeab7108702127881dced23200a6993ac34b11-29f981d22e5286c0956e4db00bf957b9-1743688307-1743687407
+#EXTINF:-1 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Nayeem's BDCast",Channel I HD
+https://tvs2.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=b8f9878baa4aef73710d6385fc34e07ebb1954ae-afb4d23bb6225eb2d2f000ce50491f06-1743688329-1743687429
+#EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="Nayeem's BDCast",DBC News 24/7
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=9ee9170a7febd0e49ac3cc993cf39b0951a75c5f-bf217efaa96148ca2492339617cecbd0-1743688353-1743687453
+#EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="Nayeem's BDCast",Desh TV Live
+https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=aace24aa1940a7a70fc0182beb7033775d9fb4f2-31ccff0f31c0822bbba1ec40688369cc-1743688384-1743687484
+#EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="Nayeem's BDCast",Ekattor TV HD
+https://tvs1.aynaott.com/ekattorbdtv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=1f54e5d1a9f8329731aceee840614ac26debeafd-7db95c5f0014cf2511f7c552cca03eeb-1743688411-1743687511
+#EXTINF:-1 tvg-id="6ed8e577" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" tvg-chno="18" group-title="Nayeem's BDCast",Ekushey TV
+https://tvs1.aynaott.com/etv/tracks-a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=4fe0c75c803887afb4c10125816ec867a32ce3dd-f98ac95c961f332ddad3bf966b44c9b1-1743688449-1743687549
+#EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="Nayeem's BDCast",Jamuna TV
+https://tvs1.aynaott.com/jamunatv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=89602eeda38b02ef6dcc443893cc5d41b93a6ccb-b47321dc8af5321842836394f35c5e73-1743688479-1743687579
+#EXTINF:-1 tvg-id="f190c3dt" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="21" group-title="Nayeem's BDCast",Maasranga HD
+https://tvs2.aynaott.com/maasrangatv.m3u8?e=1743774311&amp;u=3f6141ab-95bc-47a1-8ef1-7700757d61b9&amp;token=ef81235a86640a269ae39c85108dc6d0
+#EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="Nayeem's BDCast",News24 HD
+https://tvs2.aynaott.com/News24/tracks-a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=201c7356fc61629784f975b22abecedffa52563c-11342be332d6fb571e6e4620bd5cc4bf-1743688514-1743687614
+#EXTINF:-1 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Nayeem's BDCast",RTV HD
+https://tvs1.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=2598e080cad835ca768d65de5fcb77492ce9658c-612ad344e3150b89a30c59041f4cf75e-1743688545-1743687645
+#EXTINF:-1 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Nayeem's BDCast",SATV
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=a9b6949d7941b06d27bd0d6e74d0348d2feb82a4-7779a2dfc43a63e5a8397ab59673333c-1743688549-1743687649
+#EXTINF:-1 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Nayeem's BDCast",NTV
+https://tvs2.aynaott.com/ntv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=a8f301473af93602b0a007ccc095fca79bf76259-8012cdc36e0a588513810757a56d3977-1743688574-1743687674
+#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="Nayeem's BDCast",Independent TV
+https://tvs1.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=96f52bc3d4e02c2603e6dd73bf61afcdcff58e3e-cbd3464c14b5a03a49b4aab87d53c3d0-1743688581-1743687681
+#EXTINF:-1 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Nayeem's BDCast",Ananda TV
+https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=1000608b2af5fe53eb719ce87e7799264bab449b-aef3680c90b360dc6ba23451df902600-1743688610-1743687710
+#EXTINF:-1 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Nayeem's BDCast",Mohona TV
+https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8?amp%3Bremote=no_check_ip&token=2aed9304e44cc5dc79e8faf76ebfe450686c42be-2eef46d9a2b622a64e142f4d042eb2c1-1743688622-1743687722
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
