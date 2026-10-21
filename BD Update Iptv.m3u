@@ -1,50 +1,1282 @@
-
-#EXTM3U
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="BANGLADESHI", T-SPORTS HD
-
+#EXTINF:-1,Ananda TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ananda-tv-3-3fd66d52dcb1169efebe92ac.m3u8
+#EXTINF:-1,Asian TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asian-tv-4-9028890cf452d680dc54b3ef.m3u8
+#EXTINF:-1,ATN Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/atn-bangla-5-7257825fdf44278f84a83e1a.m3u8
+#EXTINF:-1,ATN News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/atn-news-6-6c658509c32ae9cfbd2b4054.m3u8
+#EXTINF:-1,Bangla TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bangla-tv-7-fd6e9a182fbeb8d472174322.m3u8
+#EXTINF:-1,Bangla Vision
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bangla-vision-8-8d794c4063ebae247708ad77.m3u8
+#EXTINF:-1,Bijoy TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bijoy-tv-9-fe96bd2fe630f1871f249501.m3u8
+#EXTINF:-1,Boishakhi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/boishakhi-tv-10-10e719edd6c7c270277ae602.m3u8
+#EXTINF:-1,BTV CTG
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/btv-ctg-11-924b40e03a3c755fc73319b5.m3u8
+#EXTINF:-1,Channel 52
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-52-12-44ea7667c9c3747acc1eafb3.m3u8
+#EXTINF:-1,Channel I
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-i-13-4d1d3813f023bec3e7ee7c4e.m3u8
+#EXTINF:-1,DBC News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dbc-news-14-0eb53a199c2cd8994ceb1f3b.m3u8
+#EXTINF:-1,Desh TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/desh-tv-15-682ab2900c92943c57e5cb45.m3u8
+#EXTINF:-1,Drama 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/drama-24-16-f3b61ab86fabfd9e8d9edc9b.m3u8
+#EXTINF:-1,Ekattor TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ekattor-tv-17-354e2f32b49ae3aa0c597727.m3u8
+#EXTINF:-1,Ekhon TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ekhon-tv-18-a34076d69e5600bcea841e93.m3u8
+#EXTINF:-1,ETV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/etv-19-ab5c9219e5b912f4e3259b72.m3u8
+#EXTINF:-1,Global TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/global-tv-20-3b4c6588eeebda2ae2b1e138.m3u8
+#EXTINF:-1,Jamuna TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jamuna-tv-21-f0fd58f5d9242688951c4a76.m3u8
+#EXTINF:-1,Maasranga TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/maasranga-tv-22-7e40256029de61a8313bb9bd.m3u8
+#EXTINF:-1,MADANI TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/madani-tv-23-6867749808ed4cab52dd7734.m3u8
+#EXTINF:-1,Mohona TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mohona-tv-24-8b811f4c64e0f581bab34d24.m3u8
+#EXTINF:-1,My TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/my-tv-25-9b9ffb77f0f3400c058caecc.m3u8
+#EXTINF:-1,News 24 BD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-24-bd-26-f36d5190a496acb71dfe79b8.m3u8
+#EXTINF:-1,NEXUS TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nexus-tv-27-36efeb7ae6f9199a566faa27.m3u8
+#EXTINF:-1,NTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ntv-28-671dbb26947ae745fb4d0115.m3u8
+#EXTINF:-1,NTV Europe
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ntv-europe-29-0ef8eb85a68ba93af6e89828.m3u8
+#EXTINF:-1,SA TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sa-tv-30-630c75fdf9f49726e6ab91fd.m3u8
+#EXTINF:-1,SRKTV Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/srktv-bangla-31-a048c6beaf8a29e1b587c901.m3u8
+#EXTINF:-1,Channel S (576p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-s-576p-32-69578b4cdcac50074c518bfb.m3u8
+#EXTINF:-1,Ekushey TV (480p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ekushey-tv-480p-33-ddfd56c383f36b2b92cc4fa8.m3u8
+#EXTINF:-1,Movie Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/movie-bangla-34-c92c681532251f530eaa3b5f.m3u8
+#EXTINF:-1,Sanonda Tv
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sanonda-tv-36-c0629c443659b5497863a1f4.m3u8
+#EXTINF:-1,G-Series
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/g-series-37-1ceb95d690d5f9db79bb24f1.m3u8
+#EXTINF:-1,News 24 HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-24-hd-38-633bee9aca50c300d363a269.m3u8
+#EXTINF:-1,Deshe Bideshe
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/deshe-bideshe-39-3c5b16040ef1495d156c01d6.m3u8
+#EXTINF:-1,JonmoBhumi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jonmobhumi-tv-40-38e5674e5df3796b77c98b6b.m3u8
+#EXTINF:-1,ME TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/me-tv-41-d7be2632a292089db65edf1a.m3u8
+#EXTINF:-1,Star Jalsha HD (720p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-jalsha-hd-720p-42-528b833a390534b37cf862c5.m3u8
+#EXTINF:-1,Zee Bangla HD (720p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-bangla-hd-720p-43-4df5feb13c779f7024fe69e8.m3u8
+#EXTINF:-1,DD Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-bangla-44-019147e136ae7d39c2e68c11.m3u8
+#EXTINF:-1,IN | Bangla Jago TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/in-bangla-jago-tv-46-50a8a15d3d2a8fae3ce2958e.m3u8
+#EXTINF:-1,IN | R Plus News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/in-r-plus-news-47-b94a1774da2679a9c40ce901.m3u8
+#EXTINF:-1,IN | TV9 Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/in-tv9-bangla-48-8f653ca9c2728a9a19b7f425.m3u8
+#EXTINF:-1,ENT | DD Bharati
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ent-dd-bharati-49-6d1cde5a767dc7b0500117f6.m3u8
+#EXTINF:-1,NEWS | News Nation
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-news-nation-50-49edfeef778f7bb3deaf06eb.m3u8
+#EXTINF:-1,NEWS | News24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-news24-51-78c96924090d2cab780c0eeb.m3u8
+#EXTINF:-1,NEWS | Republic TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-republic-tv-52-b213b014110f59ebe2acbc2e.m3u8
+#EXTINF:-1,Iqra Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/iqra-bangla-53-e4cf4a56f6791e0ec7fcf843.m3u8
+#EXTINF:-1,Radio Bangla Net
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/radio-bangla-net-54-cba02e210c4ffcf1ac44e849.m3u8
+#EXTINF:-1,BBC Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bbc-bangla-55-560423a2304d27c3341bff6e.m3u8
+#EXTINF:-1,Sheemaroo Bollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sheemaroo-bollywood-56-640ea7d2d1da74805318d11b.m3u8
+#EXTINF:-1,R Plus Gold
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/r-plus-gold-57-b6a580ac60daf1b755654d5d.m3u8
+#EXTINF:-1,ENT | DD National HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ent-dd-national-hd-58-24f2be7259f9819e0774539b.m3u8
+#EXTINF:-1,ENT | DD URDU
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ent-dd-urdu-59-80f1147b6e83cd6b0f8f27d1.m3u8
+#EXTINF:-1,NEWS | Aaj Tak HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-aaj-tak-hd-60-2d82aa9890fe02a0442cd152.m3u8
+#EXTINF:-1,NEWS | Aap Ki Adalat
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-aap-ki-adalat-61-65d6146c7bad5878ced120b7.m3u8
+#EXTINF:-1,NEWS | India Today
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-india-today-62-a452556fe905fcbf30bd2351.m3u8
+#EXTINF:-1,NEWS | India TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-india-tv-63-5cfad5c86ed85c977828a9f9.m3u8
+#EXTINF:-1,NEWS | NDTV Hindi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-ndtv-hindi-64-66a04465e0c33d46655c6229.m3u8
+#EXTINF:-1,NEWS | ZEE BUSINESS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-zee-business-65-80b843aa920a6e4790f58fa5.m3u8
+#EXTINF:-1,Hindi Movie Classic 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hindi-movie-classic-24-66-605894359fef9b0f4b383550.m3u8
+#EXTINF:-1,Adventure Earth
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/adventure-earth-67-6347842c43e40cd19abacb4f.m3u8
+#EXTINF:-1,Discovery HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/discovery-hd-68-3075c73b8fcefb0b8ef26b9d.m3u8
+#EXTINF:-1,HISTORY TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/history-tv-69-271d58155759f0c55b5c067d.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-gold-hd-70-00dda12ac6c6391647971e0e.m3u8
+#EXTINF:-1,kolkata TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kolkata-tv-71-ef8be84037bab2d6c0a25581.m3u8
+#EXTINF:-1,ENT | Dangal TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ent-dangal-tv-72-2429c8054ee52a29c0eb6a71.m3u8
+#EXTINF:-1,Tom & Jerry TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tom-jerry-tv-73-4d9d551af81dac4622256f73.m3u8
+#EXTINF:-1,Mr Bean Animated
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mr-bean-animated-74-bcd93cad6cd572c3c4b88b81.m3u8
+#EXTINF:-1,MINI
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mini-75-1eba8c751f3d6f0e5f50e01f.m3u8
+#EXTINF:-1,3ABN Kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/3abn-kids-76-12f4473d472590961609e918.m3u8
+#EXTINF:-1,Dios Te Ve Kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dios-te-ve-kids-77-104140c94934ecc311b97c94.m3u8
+#EXTINF:-1,Discovery Family
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/discovery-family-78-875c787b0293cd074c1e42ea.m3u8
+#EXTINF:-1,HBO 2
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hbo-2-79-09643c1891fdfd163542fdd5.m3u8
+#EXTINF:-1,NRB HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nrb-hd-80-82cdc18a349d804498ec909c.m3u8
+#EXTINF:-1,Aljazeera News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/aljazeera-news-81-252a9cd9ea06cf04a8cc88e5.m3u8
+#EXTINF:-1,BBC News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bbc-news-82-9520bcaf836af50449b04c10.m3u8
+#EXTINF:-1,Bloomberg TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bloomberg-tv-83-35e680adcf36ceeb5b1b0f80.m3u8
+#EXTINF:-1,CNBC TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cnbc-tv-84-2944f50eb400489b9e0446f7.m3u8
+#EXTINF:-1,Travel XP English
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/travel-xp-english-85-f77de820d65c7fcd6fd856d7.m3u8
+#EXTINF:-1,NEWS | NDTV English
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-ndtv-english-86-e4be12aa9cd03dd47e8a2b69.m3u8
+#EXTINF:-1,AMC TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amc-tv-87-b7d0f8dbdc0431110c5d4c9f.m3u8
+#EXTINF:-1,Animal Planet HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/animal-planet-hd-88-b94b3e318a8671028e171cce.m3u8
+#EXTINF:-1,AXS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/axs-89-b7e8d2431da09c902aa99cdf.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/comedy-central-90-d5981ca757074506db8cef4b.m3u8
+#EXTINF:-1,COOKING TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cooking-tv-91-2c0417b0ec0ec6a1e232f28c.m3u8
+#EXTINF:-1,Discovery Turbo
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/discovery-turbo-92-462cb8de62aaa20a0f83e261.m3u8
+#EXTINF:-1,EPIX TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epix-tv-93-fc314dfcc320b6ca5a31aabc.m3u8
+#EXTINF:-1,HGTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hgtv-94-0eedd6e034b01fb0ae95182d.m3u8
+#EXTINF:-1,Nat Geo TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nat-geo-tv-95-001ba4d12049b6c433d4e7af.m3u8
+#EXTINF:-1,OAN
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/oan-96-d6bba6ddc1b1f130f4d48499.m3u8
+#EXTINF:-1,Pix 11
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pix-11-97-fa35795d6442af2380382920.m3u8
+#EXTINF:-1,Power Turk
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/power-turk-98-8f1c636e044758db614a033c.m3u8
+#EXTINF:-1,RDS Social TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rds-social-tv-99-ce0ba920ffea067389b1aee8.m3u8
+#EXTINF:-1,TBS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tbs-100-262fec3fb479c71b1c071f1d.m3u8
+#EXTINF:-1,TLC HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tlc-hd-101-88971311dd3f17a81886028d.m3u8
+#EXTINF:-1,Travel Channel
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/travel-channel-102-22597dac0e1ab62f4e7d07f5.m3u8
+#EXTINF:-1,Travel XP
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/travel-xp-103-91f0e4d764755fdbadc56815.m3u8
+#EXTINF:-1,Wild TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/wild-tv-104-4be9b1328ef4129c80923d01.m3u8
+#EXTINF:-1,World War TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/world-war-tv-105-d9ebc82fccaee633a1c01c01.m3u8
+#EXTINF:-1,YTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ytv-106-b69370cc34d62c6485c7f87b.m3u8
+#EXTINF:-1,Moonbug Kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/moonbug-kids-107-041f38432fb17917e7b6b64d.m3u8
+#EXTINF:-1,Discover Pikstan
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/discover-pikstan-108-a4bf72d2622e8b407b27bab1.m3u8
+#EXTINF:-1,Test Live TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/test-live-tv-109-01d527bfadf72117a07d46a1.m3u8
+#EXTINF:-1,Iqraa TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/iqraa-tv-110-a6db9e95f65074db0e43fe39.m3u8
+#EXTINF:-1,Islam TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/islam-tv-111-5da2adcfd36f2e03a144ff42.m3u8
+#EXTINF:-1,PTV Sports
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ptv-sports-112-6712ea26952c066dd0c3a2dc.m3u8
+#EXTINF:-1,Cricket Gold
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cricket-gold-113-8123b40deb03020c9a6b19e8.m3u8
+#EXTINF:-1,FIFA+
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fifa-114-3a88bd5409239b9f483d71ac.m3u8
+#EXTINF:-1,GOAL TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/goal-tv-115-b8086145df0e9fb2a32a944b.m3u8
+#EXTINF:-1,Action Hollywood Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/action-hollywood-movies-116-8087537dd8e43000294ae8ec.m3u8
+#EXTINF:-1,Spice FM
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/spice-fm-117-1fd21fc3214a9bb7ffc903ee.m3u8
+#EXTINF:-1,Food Network
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/food-network-118-412eb3aed7b89597dcb51aa0.m3u8
+#EXTINF:-1,Oman Sports TV HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/oman-sports-tv-hd-119-5fe10b2602b1ca3bba3b1e80.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jalsha-movies-120-6cd79348070838744e2bb5ec.m3u8
+#EXTINF:-1, Nagorik Tv
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nagorik-tv-121-25adf02d6a87a472a99ec59c.m3u8
+#EXTINF:-1,Deshi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/deshi-tv-122-6b6b4ca57e4a68bde065abef.m3u8
+#EXTINF:-1,Anando TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/w-300-q-85-wcm3l5sbeef-9-uvxfvd-posters-d80f7-123-52db2fb66e15d46296910f77.m3u8
+#EXTINF:-1,SONY AATH kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sony-aath-kids-124-a1fe6e1648366546da5de794.m3u8
+#EXTINF:-1,Motu Patlu
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/motu-patlu-125-b5cb2a07fbe7ba11a1b1d5ae.m3u8
+#EXTINF:-1,Gopal Bhar TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/gopal-bhar-tv-126-3e98f58440d2d06fb6608df4.m3u8
+#EXTINF:-1,Doraemon TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/doraemon-tv-127-34f635b05e50f870669eb0a0.m3u8
+#EXTINF:-1,Zoom
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zoom-129-beff3be0fa9ebe5e85a06796.m3u8
+#EXTINF:-1,DANGAL2
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dangal2-130-53287c49442ce166b5e992ac.m3u8
+#EXTINF:-1,history
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/history-131-f884a7f8884b64d5373ca5a6.m3u8
+#EXTINF:-1,DW NEWS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dw-news-132-584615222ee83400a0d620e0.m3u8
+#EXTINF:-1,B4U Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/b4u-movies-133-56806fa935ba546a0f7668c9.m3u8
+#EXTINF:-1,Baallee
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/baallee-135-6fa365a505ab86800abb7d4e.m3u8
+#EXTINF:-1,Channel Europe
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-europe-136-70e6281650c012e31a57a4e6.m3u8
+#EXTINF:-1,Enterr 10 Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/enterr-10-bangla-137-8653ba2a85f2421e124963b8.m3u8
+#EXTINF:-1, ZB Cartun TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zb-cartun-tv-138-774504fd91978a1eaa97745e.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-cineplex-bollywood-139-ab8d86569abeb9d614f7b653.m3u8
+#EXTINF:-1,Colors Cineplex Superhit
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-cineplex-superhit-140-b2957ec102c7f83c03bba8cd.m3u8
+#EXTINF:-1,Rongeen TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rongeen-tv-141-533d757644b3642d3c8880f1.m3u8
+#EXTINF:-1,Jhankar TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jhankar-tv-142-00be157f045748b949fe26a9.m3u8
+#EXTINF:-1,Amar Bangla🇮🇳
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amar-bangla-143-ffb8e78efdf74d24ec9b6f68.m3u8
+#EXTINF:-1,Zee Bangla Sonar
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-bangla-sonar-144-141cc10e3a7145c43d76dba0.m3u8
+#EXTINF:-1,TV9 Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-bangla-145-5bf8a50e9f8303140d1b0c0f.m3u8
+#EXTINF:-1,NK
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nk-146-13aa18fee564b2ca231f8aac.m3u8
+#EXTINF:-1,GNT
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/gnt-147-f91d45daccb28730ce169c4e.m3u8
+#EXTINF:-1,SONY KAL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/group-title-family-sony-kal-148-33ab6a71e1cdbad821897f77.m3u8
+#EXTINF:-1,beIN sports Xtra HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bein-sports-xtra-hd-149-2ed4ceabfa198db9971b2cc8.m3u8
+#EXTINF:-1,Enter10 Bangla HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/enter10-bangla-hd-150-10def150702b0152d153f42c.m3u8
+#EXTINF:-1, Quran TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/quran-tv-152-a4d4b3b36fbb790893715cef.m3u8
+#EXTINF:-1,QURAN
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/quran-153-f963620d6abc9cb650583fac.m3u8
+#EXTINF:-1,Quran Live
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/quran-live-154-cd6765f8bbcd29f2c75b6594.m3u8
+#EXTINF:-1,Zoo Moo
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zoo-moo-156-b9e60ef9108299c21a5cb772.m3u8
+#EXTINF:-1,Oggy
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/oggy-157-88c6a5ae696cd70b6a8eb13b.m3u8
+#EXTINF:-1,Bantul The Great
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bantul-the-great-158-ee4bff09707cbed3aa704a90.m3u8
+#EXTINF:-1,RONGEEN TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/group-title-kids-rongeen-tv-159-5d9533e435b7bcada025e027.m3u8
+#EXTINF:-1,   	 USA TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/usa-tv-160-58c0b1e6a92d4fced1bcff3a.m3u8
+#EXTINF:-1,ABC News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abc-news-161-836bd571d7fcee67f8ea652f.m3u8
+#EXTINF:-1,ABN
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abn-162-0cca5e2de256b8326d58e06b.m3u8
+#EXTINF:-1,Accu Weather
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/accu-weather-163-4e7f7da8f34cdf630934a293.m3u8
+#EXTINF:-1,CBS TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cbs-tv-164-6c39e207e96c88416c924b29.m3u8
+#EXTINF:-1,Fox 5
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fox-5-165-ad9cfb2fbe49ec6c87588323.m3u8
+#EXTINF:-1,Fox business
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fox-business-166-f868eea80ce28eb57e765e7f.m3u8
+#EXTINF:-1,Fox News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fox-news-167-9e6737b09059979a7a1d2023.m3u8
+#EXTINF:-1,Fox Weather
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fox-weather-168-f70bc4da50898211b321d5e2.m3u8
+#EXTINF:-1,FX TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fx-tv-169-cff1c4f7204a22d9b0e036b2.m3u8
+#EXTINF:-1,India Today
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/india-today-170-57417a35ced6da5111fe4399.m3u8
+#EXTINF:-1,MSNBC News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/msnbc-news-171-1ca2d136f358d9d671da1c32.m3u8
+#EXTINF:-1,NFL Network
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nfl-network-172-b92a45eb558e81de409d2be5.m3u8
+#EXTINF:-1,Sky News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sky-news-173-e2c0d31acc6170f0274a44a3.m3u8
+#EXTINF:-1,Sky News Weather
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sky-news-weather-174-789e31bfb642492b82b7c132.m3u8
+#EXTINF:-1,Weather SPY
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/weather-spy-175-783a43a7d1e7f34ccd5a1da8.m3u8
+#EXTINF:-1,Wion
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/wion-176-7c2957de88153d97e1ed9dc0.m3u8
+#EXTINF:-1,Bahrain Sports 1
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bahrain-sports-1-177-0f920818386210358ba8e22d.m3u8
+#EXTINF:-1,Sports First TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sports-first-tv-178-28f0de1571b6d4fba31e7b0b.m3u8
+#EXTINF:-1,Sports Fishing TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sports-fishing-tv-179-f035385bab7dbd810cc09141.m3u8
+#EXTINF:-1,Talk Sport
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/talk-sport-180-8e04e0e94852ade44a5396fe.m3u8
+#EXTINF:-1,TNT Sport 1
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tnt-sport-1-181-a1ea666c83159e60adc6a670.m3u8
+#EXTINF:-1,Xtrem Sports
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/xtrem-sports-182-f3843bc19911d4143bae3a04.m3u8
+#EXTINF:-1,PBS Kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pbs-kids-184-cf03fa8c6b14ffea379beb0f.m3u8
+#EXTINF:-1,TVC Arabic Kids
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tvc-arabic-kids-185-cb2b48c0dbd5c39183651c4f.m3u8
+#EXTINF:-1,TVCARiB Kids & Teens
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tvcarib-kids-teens-186-d096b584be69485185c71b43.m3u8
+#EXTINF:-1,LAFF TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/laff-tv-187-188b8896f95134613ce13713.m3u8
+#EXTINF:-1,Channel 1
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/somoy-tv-188-0e249a815540070a985f45e3.m3u8
+#EXTINF:-1,T Sports
 https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/t-sports-191-c94d27aee90dedad919c02f5.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="BANGLADESHI", GAZI TV HD
-http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR SPORTS 1 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR SPORTS 2 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR SPORTS 3
-http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR SPORTS-SEL 1 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR SPORTS-SEL 2 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", SONY SPORTS 1 HD
-http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", SONY SPORTS 2 HD
-http://103.122.74.6:8888/hls/SONY.SPORTS1.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", SONY SPORTS 3 HD
-http://103.122.74.6:8888/hls/SONY.SPORTS.3.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", SONY SPORTS 5 HD
-http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", STAR JALSHA HD
-http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", ZEE BANGLA HD
-http://103.122.74.6:8888/hls/ZEE.BANGLA.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", JALSHA MOVIES HD
-http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2YVkQ74/20240602-081204.jpg" group-title="INDIAN", SONY AAT
-http://103.122.74.6:8888/hls/SONY.AAT.m3u8
-
-
+#EXTINF:-1,Dangal
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dangal-192-e194a58b720f2b80e197c84a.m3u8
+#EXTINF:-1,Taaza TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/taaza-tv-193-440dc97a9786b71b141946a1.m3u8
+#EXTINF:-1,CP 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cp-24-194-0c78eb3dec20f4063c8831f9.m3u8
+#EXTINF:-1,Goldmines Bollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/goldmines-bollywood-196-6a4352f8dd8c9e0fd1cc8855.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://www.rangdhonu.live/
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-gold-2-199-6b62170435588f2ba8e70f07.m3u8
+#EXTINF:-1,Willow HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/willow-hd-200-239f81e56d9db6389da0e69e.m3u8
+#EXTINF:-1,Rupashi Bangla TV (720p)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rupashi-bangla-tv-720p-203-e37dc0025daadc59f3ffdd54.m3u8
+#EXTINF:-1,AKHON TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/akhon-tv-204-efb0882eed4806df9fb26dd1.m3u8
+#EXTINF:-1,Green TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/green-tv-205-4f09b8b256a8c1503c4e3f18.m3u8
+#EXTINF:-1,Islamic TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/islamic-tv-206-dc4f5383b1a5662fb4bda15e.m3u8
+#EXTINF:-1,MUSIC BANGLA
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/music-bangla-208-895233a8e611318329e2d404.m3u8
+#EXTINF:-1,CMAC TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cmac-tv-212-c64ef9ecc3d6015c34960fde.m3u8
+#EXTINF:-1,KTV Sport Plus
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ktv-sport-plus-214-f8a8ffbdd6ad8d3d7875d38b.m3u8
+#EXTINF:-1,Channel 16
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-16-215-aa4fcd6a2580ddff5c10c6ef.m3u8
+#EXTINF:-1,Saudi Sunnah HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/saudi-sunnah-hd-216-2515b5ca0608fabec19805ff.m3u8
+#EXTINF:-1, Maa TV HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/maa-tv-hd-218-11d1a13550fb6ba90c3dd217.m3u8
+#EXTINF:-1, Star Plus APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-plus-apac-219-67c3c4e62dac747c0429951f.m3u8
+#EXTINF:-1, Colors Kannada HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-kannada-hd-220-472ade92eb20d3795a016e7f.m3u8
+#EXTINF:-1, Star Vijay
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-vijay-221-928d45b0e447e6260c5e9301.m3u8
+#EXTINF:-1, Colors APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-apac-222-b9a0da095091e409d22e137c.m3u8
+#EXTINF:-1, Asianet Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asianet-movies-223-87cb99067737f2850db4554b.m3u8
+#EXTINF:-1, Colors Bangla HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-bangla-hd-224-618a8715a0b69ff2c224c545.m3u8
+#EXTINF:-1, Aajtak
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/aajtak-225-4890d9db32bcd17e26fef060.m3u8
+#EXTINF:-1, Republic Bharat
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/republic-bharat-226-b778969c8d98e94ff4c8a5d1.m3u8
+#EXTINF:-1, TV9 Bharatvarsh
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-bharatvarsh-227-78949ab83ce194cd7e4df7c3.m3u8
+#EXTINF:-1, ABP News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abp-news-228-d46cdaad44b08386e8d50990.m3u8
+#EXTINF:-1, Zee News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-news-229-d3b9329f39714d4cb5fa1273.m3u8
+#EXTINF:-1, Zee Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-tamil-230-6d5b312ad66092a06b1ece94.m3u8
+#EXTINF:-1, NDTV INDIA
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ndtv-india-231-4333379d50f6978e2cbb42d5.m3u8
+#EXTINF:-1, Kutingg
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kutingg-232-2875e13cb40f66de8dd7c8cd.m3u8
+#EXTINF:-1, Republic TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/republic-tv-233-278625e23fac7df2d39eb80b.m3u8
+#EXTINF:-1, Zee Telugu HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-telugu-hd-234-955d8f826cf9cc0c7ce16626.m3u8
+#EXTINF:-1, India Today News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/india-today-news-235-4672aaf4bf858fdf490c485f.m3u8
+#EXTINF:-1, News9Live
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news9live-236-06b122154dc1068eb180bf29.m3u8
+#EXTINF:-1, NDTV Rajasthan
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ndtv-rajasthan-237-9fe172568ba67a43035dcd94.m3u8
+#EXTINF:-1, NDTV 24x7
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ndtv-24x7-238-581264637bfb587ea455477c.m3u8
+#EXTINF:-1, NDTV MP
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ndtv-mp-239-5de2d54564f00842463e6be9.m3u8
+#EXTINF:-1, Asianet Plus
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asianet-plus-240-48e98ce4f9c5fe0500a27feb.m3u8
+#EXTINF:-1, Colors Gujarati
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-gujarati-241-b491f5a599292c9b1099cf4b.m3u8
+#EXTINF:-1, BEST CLASSIC TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/best-classic-tv-242-471244b0d69b266c8b664f67.m3u8
+#EXTINF:-1, Colors Rishtey APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-rishtey-apac-243-48069dd1b5e4f7b73bd8369b.m3u8
+#EXTINF:-1, Zee Punjab Haryana Himachal
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-punjab-haryana-himachal-244-b34de695d7a89f04cefd2a42.m3u8
+#EXTINF:-1, Chardikala Time TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/chardikala-time-tv-245-10bdd7e21849c2840eb37fa9.m3u8
+#EXTINF:-1, Maa Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/maa-movies-246-54197fab4fc3f50d4f5aeefe.m3u8
+#EXTINF:-1, Zee Kannada HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-kannada-hd-247-6dcbd45d19d78776d03fcf67.m3u8
+#EXTINF:-1, Star Bharat APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-bharat-apac-248-59e4ee2f8bec7dc78528747d.m3u8
+#EXTINF:-1, Pitaara TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pitaara-tv-249-57aa62cc725b69531910496c.m3u8
+#EXTINF:-1, Pitaara Comedy
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pitaara-comedy-250-77b2c0194771beadcee58496.m3u8
+#EXTINF:-1, Zee Marathi HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-marathi-hd-251-75d76cbf5c5fced52a711572.m3u8
+#EXTINF:-1, Colors Marathi HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-marathi-hd-252-51622ae7711c373e2e729cd5.m3u8
+#EXTINF:-1, Colors Super
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-super-253-8d4615a7bddb78c5bb5d1566.m3u8
+#EXTINF:-1, Flowers TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/flowers-tv-254-d633c5dfe825205bf1890024.m3u8
+#EXTINF:-1, ABP Majha
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abp-majha-255-5e39386a26f153bfdf692749.m3u8
+#EXTINF:-1, Asianet News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asianet-news-256-3238e3e14bdd88aca8ff1121.m3u8
+#EXTINF:-1, Colors Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-tamil-257-2a9feaef79754bdaae13e8e3.m3u8
+#EXTINF:-1, IBC Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ibc-tamil-258-b4a3ba6ab8bfed38d29813c1.m3u8
+#EXTINF:-1, PolimerTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/polimertv-259-85b81e5a185117a8d6586eb7.m3u8
+#EXTINF:-1, GTC Punjabi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/gtc-punjabi-260-fe9585889fdd3c94071cbddb.m3u8
+#EXTINF:-1, Punjabi Shorts
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/punjabi-shorts-261-383a516d5a785fb405ba5839.m3u8
+#EXTINF:-1, TV9 News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-news-262-34d3dc157e87bab7a2b2238e.m3u8
+#EXTINF:-1, Mazhavil Manorama
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mazhavil-manorama-263-dc8da05c294d810c062eb10a.m3u8
+#EXTINF:-1, Suvarna TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/suvarna-tv-264-4440cf8040cd7706eb49b56b.m3u8
+#EXTINF:-1, TV5
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv5-265-507ab66f2add401ba08bab3c.m3u8
+#EXTINF:-1, Zee News Telugu
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-news-telugu-266-a960db48bcf6cb30fbecda30.m3u8
+#EXTINF:-1, Star Pravah
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-pravah-267-e3386861b19b880f23731788.m3u8
+#EXTINF:-1, Telugu One
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/telugu-one-268-ac26686e835f353e40b92082.m3u8
+#EXTINF:-1, Green Gold TV India
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/green-gold-tv-india-269-52c6c8ec496729deac259eaa.m3u8
+#EXTINF:-1, 24 Taas
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/24-taas-271-65f601c00e22376bb96f00da.m3u8
+#EXTINF:-1, 9x Tashan
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/9x-tashan-272-5d589571cdada75ff74e14bf.m3u8
+#EXTINF:-1, Republic Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/republic-bangla-273-49ba0d8116e8c47c7a65f0a4.m3u8
+#EXTINF:-1, Saam TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/saam-tv-274-97e2ecaf28daf78a118a5efc.m3u8
+#EXTINF:-1, ABP Ananda
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abp-ananda-275-a0cf1759e785b96c71c6eda0.m3u8
+#EXTINF:-1, Puthiya Thalaimurai
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/puthiya-thalaimurai-276-34ab65847ba39bf3fdaa3e1e.m3u8
+#EXTINF:-1, Asianet TV ME
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asianet-tv-me-277-759f19ff5e0e3b3b53f56777.m3u8
+#EXTINF:-1, 24 Ghanta
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/24-ghanta-278-871c8b7ea298ab038fabbb7c.m3u8
+#EXTINF:-1, 9x Jhakaas
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/9x-jhakaas-279-f97799b7d62242030785e5e2.m3u8
+#EXTINF:-1, TV9 Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-kannada-280-e24b88e75cf29f0e97b7217f.m3u8
+#EXTINF:-1, Polimer News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/polimer-news-281-39ce683997583344c6469936.m3u8
+#EXTINF:-1, SVBC 3
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/svbc-3-282-7910f59eb099f388aabe0d97.m3u8
+#EXTINF:-1, TV5 Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv5-kannada-283-937bf96a1174800017253fee.m3u8
+#EXTINF:-1, Maa Gold
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/maa-gold-284-59bdf6f7dd8a1cce7ad03d7a.m3u8
+#EXTINF:-1, Maa Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/maa-music-285-59661ae41651127e30a9fb20.m3u8
+#EXTINF:-1, Manorama News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/manorama-news-286-6f73a757851fc47c8ddba920.m3u8
+#EXTINF:-1, 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/24-287-7d6a37fef2553607b1637808.m3u8
+#EXTINF:-1, News7 Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news7-tamil-288-2d778aee81afb43de74a0116.m3u8
+#EXTINF:-1, Mathrubhumi News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mathrubhumi-news-289-9a5b8e466ceee1ee7af8a40e.m3u8
+#EXTINF:-1, MediaOne TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mediaone-tv-290-dddf51094f239e97693c3195.m3u8
+#EXTINF:-1, Reporter TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/reporter-tv-291-03ad82d4bcc5d2e69b8400cf.m3u8
+#EXTINF:-1, Sakshi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sakshi-tv-292-2708031134aba76d245ea298.m3u8
+#EXTINF:-1, Punjabi Hits
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/punjabi-hits-293-f2807e0bdbb60a3fbc34adf3.m3u8
+#EXTINF:-1, Tabbar Hits
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tabbar-hits-294-a55055aa1d4400124c268c81.m3u8
+#EXTINF:-1, SafariTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/safaritv-295-72db4c05ec5a41700231646e.m3u8
+#EXTINF:-1, V6 News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/v6-news-296-c694bd1416affabe41056611.m3u8
+#EXTINF:-1, Janam TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/janam-tv-297-e2026c5d10beb26f81480385.m3u8
+#EXTINF:-1, Pocket Films
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pocket-films-298-8acc46934321d7634d24be42.m3u8
+#EXTINF:-1, Makkal TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/makkal-tv-299-062fd155f5c92dd6b02b1c41.m3u8
+#EXTINF:-1, VendharTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vendhartv-300-26ef4bfd2e04299f4d989ba2.m3u8
+#EXTINF:-1, PuthuyugamTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/puthuyugamtv-301-b52193bea3309d09f9864b8a.m3u8
+#EXTINF:-1, Harvest TV 24*7
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/harvest-tv-24-7-302-658f17a48dfaf580912cdcb6.m3u8
+#EXTINF:-1, Dhoom Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dhoom-music-303-4c9d1a715350d86b659d8186.m3u8
+#EXTINF:-1, Zee TV APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-tv-apac-304-a932fb77e0eb5605a10e29f0.m3u8
+#EXTINF:-1, Zee Cinema HD APAC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-cinema-hd-apac-305-c6ae1a697fad1ffb66fd6f69.m3u8
+#EXTINF:-1, Zing TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zing-tv-306-60430713c4528f83b05583d8.m3u8
+#EXTINF:-1, Calvary TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/calvary-tv-307-bee914baf780e5df73223b3e.m3u8
+#EXTINF:-1, Zee Action
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-action-308-ffad5ed8421846e07a1c0ccf.m3u8
+#EXTINF:-1, Nambikkai
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nambikkai-309-008f91f1201ba3d1f3d3c285.m3u8
+#EXTINF:-1, Zee Business
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-business-310-420a30a23bb9f76ee54e57b0.m3u8
+#EXTINF:-1, India Daily 24X7
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/india-daily-24x7-311-6a02ad3242150aa41aa45636.m3u8
+#EXTINF:-1, Mahaa Bhakti
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mahaa-bhakti-312-0bf188319c22650ff5d34728.m3u8
+#EXTINF:-1, Mahaa Max
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mahaa-max-313-8c364bd37d3153c996f26d25.m3u8
+#EXTINF:-1, MTV India
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mtv-india-314-948d6ffc3d9b01f6e7c2058d.m3u8
+#EXTINF:-1, News Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-tamil-315-8c30b16dca20240de0f1f7b6.m3u8
+#EXTINF:-1, Drive+ Speed
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/drive-speed-316-35c7ec5a127bbc3cb17cf715.m3u8
+#EXTINF:-1, Hunt Fish TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hunt-fish-tv-317-cdfa74186040a69bd39d622f.m3u8
+#EXTINF:-1, Nautical Channel
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nautical-channel-318-30fa4b75e1227360f351a14a.m3u8
+#EXTINF:-1, Yachting TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/yachting-tv-319-ff5d7595b980263b86f005ec.m3u8
+#EXTINF:-1, 9XM
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/9xm-320-be117da3a7af5ab5da248410.m3u8
+#EXTINF:-1, Absinthe TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/absinthe-tv-321-ceb9f537f33b0099b9ccf1d5.m3u8
+#EXTINF:-1, ABP Asmita
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/abp-asmita-322-7c3f37e8b9b7f5ebf9a5a774.m3u8
+#EXTINF:-1, TV9 Gujarati
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-gujarati-323-edafe743f2322e132b2fb0b7.m3u8
+#EXTINF:-1, Good News Today
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/good-news-today-324-096890e7a7f473431dbbde44.m3u8
+#EXTINF:-1, Republic Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/republic-kannada-325-de0761ec3dd75915c8c19491.m3u8
+#EXTINF:-1, Zee Hindustan
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-hindustan-326-353f4e6520988d30d2b55fa8.m3u8
+#EXTINF:-1, Zee Rajasthan News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-rajasthan-news-327-f8724f19e9da44eaba2b679f.m3u8
+#EXTINF:-1, Zee Salaam
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-salaam-328-0c088d6a4b8e4ca4680a4110.m3u8
+#EXTINF:-1, Zee Madhya Pradesh Chhattisgarh
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-madhya-pradesh-chhattisgarh-329-076d77ff9a045fc4cb9a7271.m3u8
+#EXTINF:-1, Zee UP UK
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-up-uk-330-93854aaa15919b9947d6488c.m3u8
+#EXTINF:-1, Zee Bihar Jharkhand
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-bihar-jharkhand-331-3257ae924150b8e5ed1985b7.m3u8
+#EXTINF:-1, Zee Delhi NCR Haryana
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-delhi-ncr-haryana-332-4fee8517527dcaeeffc171e5.m3u8
+#EXTINF:-1, Kalinga TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kalinga-tv-333-16dc1a9dd91a93bff727ae56.m3u8
+#EXTINF:-1, Nandighosha TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nandighosha-tv-334-7e6f107b45d4b93d92effa17.m3u8
+#EXTINF:-1, Nepal 1
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nepal-1-335-607ab0fb7ee0122847739048.m3u8
+#EXTINF:-1, News 1st
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-1st-336-02b6277564d0f32d97a50ca2.m3u8
+#EXTINF:-1, SVBC 2
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/svbc-2-337-2f8d7231cbe510a6564be35a.m3u8
+#EXTINF:-1, Hornbill TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hornbill-tv-338-3441770f9bff974b00242509.m3u8
+#EXTINF:-1, PASAND
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pasand-339-80e6e15d134fc7e5e18b8a12.m3u8
+#EXTINF:-1, Moon TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/moon-tv-340-e8979cee5d78e8179464af5e.m3u8
+#EXTINF:-1, Kappa TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kappa-tv-341-ed6897e3a0be00ccfe140f03.m3u8
+#EXTINF:-1, VTV Gujarati
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vtv-gujarati-342-00c299549324a8f24d793d8d.m3u8
+#EXTINF:-1, Kashish News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kashish-news-343-ca808fa0e9b295edfa47f401.m3u8
+#EXTINF:-1, Jai Maharashtra
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jai-maharashtra-344-7376b699130933a30a9eb648.m3u8
+#EXTINF:-1, News 11 Bharat
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-11-bharat-345-4125e72d8a604cec49e10dbb.m3u8
+#EXTINF:-1, Hindi Khabar
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hindi-khabar-346-94347d6c0ad8412e3d4732f9.m3u8
+#EXTINF:-1, Bharat Samachar
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bharat-samachar-347-3a0a254a634518a06043cfea.m3u8
+#EXTINF:-1, Khabrain Abhi Tak
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/khabrain-abhi-tak-348-75a30b00f86c70caa2e40592.m3u8
+#EXTINF:-1, Network 10
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/network-10-349-15f6bf95f787d9152cac85d3.m3u8
+#EXTINF:-1, Jinvani Channel
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jinvani-channel-350-a9b538edb4113b0f51081742.m3u8
+#EXTINF:-1, INH 24X7
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/inh-24x7-351-46395f67564a5d23fcba4f82.m3u8
+#EXTINF:-1, Argus News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/argus-news-352-561f6f5269dd2c5fb1c7943b.m3u8
+#EXTINF:-1, APN News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/apn-news-353-b03161442687f232b47c61b3.m3u8
+#EXTINF:-1, India Voice
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/india-voice-354-f8c1d12f0b5184268c219a84.m3u8
+#EXTINF:-1, Swaraj Express SMBC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/swaraj-express-smbc-355-56f5a6f58176702b1eebb125.m3u8
+#EXTINF:-1, Balle Balle
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/balle-balle-356-166799e2f567e602164e8110.m3u8
+#EXTINF:-1, Santwani
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/santwani-357-c21b3f605c0b8a6503cd5758.m3u8
+#EXTINF:-1, Bansal News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bansal-news-358-d130cf75e1c088383c689483.m3u8
+#EXTINF:-1, Hooray Rhymes
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hooray-rhymes-359-9851608a34f80e876342818e.m3u8
+#EXTINF:-1, Sana TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sana-tv-360-9b149d7d8f77b95c13d0cbf6.m3u8
+#EXTINF:-1, Sandesh News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sandesh-news-361-0851a4fe1c185f8b823a3a63.m3u8
+#EXTINF:-1, ANB News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/anb-news-362-05595eb8797d41072405a2a5.m3u8
+#EXTINF:-1, Surya Samachar
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/surya-samachar-363-f19e3f1b12bfa66f28437b97.m3u8
+#EXTINF:-1, Kanak News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kanak-news-364-65f7a9fac1a8938e3746937f.m3u8
+#EXTINF:-1, Sudarshan News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sudarshan-news-365-71c5f135173d24a5e0313e6f.m3u8
+#EXTINF:-1, COLOUR BLIND
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colour-blind-366-4a6e910868ef4580713aa196.m3u8
+#EXTINF:-1, EDGY URBAN
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/edgy-urban-367-d3cfd8bbd6e414a1dc067fed.m3u8
+#EXTINF:-1, KIDDO
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kiddo-368-602a0efa3ea950989e3dce80.m3u8
+#EXTINF:-1, THE EXPLORERS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/the-explorers-369-618b45645354f0476cc3522a.m3u8
+#EXTINF:-1, WESHORT
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/weshort-370-a7caad9c0c8890cd9363e697.m3u8
+#EXTINF:-1, MAMA BENZ TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mama-benz-tv-371-88badaa717b15e871e47865e.m3u8
+#EXTINF:-1, EDGY TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/edgy-tv-372-635d7922634172c6d7c024ad.m3u8
+#EXTINF:-1, ENCORE
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/encore-373-37414eb7818a2c6123943467.m3u8
+#EXTINF:-1, DANGER VISION TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/danger-vision-tv-374-fb17ff61d8821c4276f1d5f5.m3u8
+#EXTINF:-1, BANG BANG TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bang-bang-tv-375-40d703c824816f51505f0a48.m3u8
+#EXTINF:-1, CARTOON TV CLASSICS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cartoon-tv-classics-376-2fc7689c14bc4b7e22ba3863.m3u8
+#EXTINF:-1, COWBOY MOVIE CHANNEL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cowboy-movie-channel-377-2941f3e4c119e68fb2cb9742.m3u8
+#EXTINF:-1, DRIVE IN MOVIE CHANNEL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/drive-in-movie-channel-378-274b6821d3158af8cf04fe46.m3u8
+#EXTINF:-1, FIGHT TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fight-tv-379-baa43f7c629da3b66d8bc132.m3u8
+#EXTINF:-1, JUPITER TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jupiter-tv-380-d9c793c5a21bc326b816d143.m3u8
+#EXTINF:-1, MERCURY
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mercury-381-ba02f0eb7bb669a5a6743603.m3u8
+#EXTINF:-1, SCIFI WORLD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/scifi-world-382-d953f28eff0e5d2ee49aa041.m3u8
+#EXTINF:-1, SPORT FISHING TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sport-fishing-tv-383-f40f495ebebb8df5ea151877.m3u8
+#EXTINF:-1, THALAA TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/thalaa-tv-384-2d2c3675b8c92083ef2b4190.m3u8
+#EXTINF:-1, URBAN ACTION
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/urban-action-385-2e9f2fe58d36e0c1e95bb8f8.m3u8
+#EXTINF:-1, WILDEST WISH TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/wildest-wish-tv-386-b6303997fee7e192039d6460.m3u8
+#EXTINF:-1, BOLLYWOOD 4U
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bollywood-4u-387-098014f70c2ddcd6f101bc04.m3u8
+#EXTINF:-1, THE CHUKKER CHANNEL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/the-chukker-channel-388-482bdbc48374c64f20b7cb8b.m3u8
+#EXTINF:-1, HEARTFELT TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/heartfelt-tv-389-be772cded316ef762799f22a.m3u8
+#EXTINF:-1, HORROR TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/horror-tv-390-a94dc145d7070c885ca280fe.m3u8
+#EXTINF:-1, KOZOOM
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kozoom-391-0db2ee490235a8f825ce6bdc.m3u8
+#EXTINF:-1, LOL TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/lol-tv-392-fb6eedd83c38d5f28525f76d.m3u8
+#EXTINF:-1, LOVE 2 HATE TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/love-2-hate-tv-393-764d1c476fb93d11006174af.m3u8
+#EXTINF:-1, STAR VISION
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-vision-394-25ec7b0f807475ca5e99a92f.m3u8
+#EXTINF:-1, TENSIONS TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tensions-tv-395-265ea480c3abc4c91836ad75.m3u8
+#EXTINF:-1, TOLLY TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tolly-tv-396-68bfaacc00c2097e4fd55ec9.m3u8
+#EXTINF:-1, KUNG FU
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kung-fu-397-2a2d21c91f1065e02d5f09e6.m3u8
+#EXTINF:-1, Zee 24 Kalak
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-24-kalak-398-e4df127b71e70955a5ae631f.m3u8
+#EXTINF:-1, NITRO TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nitro-tv-399-833edac60456b88f006dd667.m3u8
+#EXTINF:-1, Divya Bhajan
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/divya-bhajan-400-3a6920652ed0071f0a4ea0aa.m3u8
+#EXTINF:-1, Sarv Dharm Sangam
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sarv-dharm-sangam-401-f69f9397ce9df272d7528b45.m3u8
+#EXTINF:-1, Bhakti Play
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bhakti-play-402-6f9f62cdc10ee3ac92a7f866.m3u8
+#EXTINF:-1, Bharat 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bharat-24-403-733bd2115b9755ad4dd8088a.m3u8
+#EXTINF:-1, ACE TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ace-tv-404-3f3b3524e9cb3a9c2871c5e1.m3u8
+#EXTINF:-1, AWE PLUS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/awe-plus-405-cb5c39b503817afd8d517b89.m3u8
+#EXTINF:-1, BRAT TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/brat-tv-406-c6a46cf4230b12bc7ff06fb7.m3u8
+#EXTINF:-1, COMEDY TADKA
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/comedy-tadka-407-747d0084ee0907d244189960.m3u8
+#EXTINF:-1, DIY ART
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/diy-art-408-a113f80bf4ad87e6ea752ae0.m3u8
+#EXTINF:-1, ESCAPE TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/escape-tv-409-10db96c8fdfb36ec57cc42eb.m3u8
+#EXTINF:-1, LUXURY DREAMS TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/luxury-dreams-tv-410-9dcde2eb1b93d8e1e965d355.m3u8
+#EXTINF:-1, MMA TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mma-tv-411-3ffa3c08a5c6983fd5305179.m3u8
+#EXTINF:-1, OAN PLUS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/oan-plus-412-87283e7d4286e75704a43ffc.m3u8
+#EXTINF:-1, SPACE SERIES
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/space-series-413-55bce9eabfdbde22dad5fd10.m3u8
+#EXTINF:-1, UNCHAINEDTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/unchainedtv-414-869913450d47eed872885f48.m3u8
+#EXTINF:-1, JUST FOR LAUGHS GAGS
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/just-for-laughs-gags-415-4d335ca9d9d827c2862e04f4.m3u8
+#EXTINF:-1, BEST ACTION TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/best-action-tv-416-91107eab7b9a209ddadd45e4.m3u8
+#EXTINF:-1, TV9 Marathi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv9-marathi-417-0fd1286364d73a58211c50c5.m3u8
+#EXTINF:-1, LATINO CLASSIC CHANNEL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/latino-classic-channel-418-359eed974571b10620716a78.m3u8
+#EXTINF:-1, ENGLISH TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/english-tv-419-cadc8a6c64bf16b1e7155e3e.m3u8
+#EXTINF:-1, TRUFA
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/trufa-420-292f506063289cf1f188e678.m3u8
+#EXTINF:-1, VOYAGES
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/voyages-421-bbb98e475c90443e048cbc34.m3u8
+#EXTINF:-1, MUNDO SERIES
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mundo-series-422-4a5b6607aabba0b48ead8d40.m3u8
+#EXTINF:-1, OUTER VISION TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/outer-vision-tv-423-91d2574645d5072af75825e0.m3u8
+#EXTINF:-1, News 1 India
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-1-india-424-67c52210caa20681261bc505.m3u8
+#EXTINF:-1, Total TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/total-tv-425-83383c10e05fdadaae7cc79b.m3u8
+#EXTINF:-1, Jantantra TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jantantra-tv-426-b33d4977d28143d3165a64e6.m3u8
+#EXTINF:-1, Prime News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/prime-news-427-4539d9c9551f892219ebdb31.m3u8
+#EXTINF:-1, insync
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/insync-428-9951541bc697dede97bca1d9.m3u8
+#EXTINF:-1, Disha TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/disha-tv-429-358cd930921f843a51fb6ce2.m3u8
+#EXTINF:-1, Sharnam TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sharnam-tv-430-75f7132bea50c6e3dba482ea.m3u8
+#EXTINF:-1, Subharti TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/subharti-tv-431-c0aba173c3d02675c05a3e38.m3u8
+#EXTINF:-1, Anaadi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/anaadi-tv-432-f269afb59839194ec9f217a4.m3u8
+#EXTINF:-1, Jan TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/jan-tv-433-07f9b43928d20be05c220ef3.m3u8
+#EXTINF:-1, Calcutta News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/calcutta-news-434-ea48d75c62d4cbb803b4bac5.m3u8
+#EXTINF:-1, Peppers TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/peppers-tv-435-9032beae29e04fb2bf70193e.m3u8
+#EXTINF:-1, Protidin Time
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/protidin-time-436-4deecc1c5318832ffdd4d24c.m3u8
+#EXTINF:-1, Rengoni TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rengoni-tv-437-f1c603388471d62e04692b81.m3u8
+#EXTINF:-1, Mantavya News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mantavya-news-438-754fcdd3e2d63a731c986af6.m3u8
+#EXTINF:-1, Ayush TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ayush-tv-439-011a352fc118dca1084766cd.m3u8
+#EXTINF:-1, CTVN AKD Plus
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ctvn-akd-plus-440-a96048786913dddde64fa4f6.m3u8
+#EXTINF:-1, Prag News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/prag-news-441-d5647c077d431f8f589142ac.m3u8
+#EXTINF:-1, PickleBall Now
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pickleball-now-442-17df2a23dc45980e54128049.m3u8
+#EXTINF:-1, Bharat Express
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bharat-express-443-e6eaea45b8588bcd0151c256.m3u8
+#EXTINF:-1, NKR TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nkr-tv-444-48a318ccfb58d290c14a510e.m3u8
+#EXTINF:-1, Rplus News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rplus-news-445-98caf717c706b88830a33d63.m3u8
+#EXTINF:-1, Mahua Play
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mahua-play-446-683aa815f598d83be779a703.m3u8
+#EXTINF:-1, Prameya News7
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/prameya-news7-447-53c521800089f0c70ed53467.m3u8
+#EXTINF:-1, ITSF
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/itsf-448-e698d41c6dc53660d04782f7.m3u8
+#EXTINF:-1, AMERICAS BOATING CHANNEL
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/americas-boating-channel-449-1dae3fbec1251e8774097763.m3u8
+#EXTINF:-1, CHRONO TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/chrono-tv-450-0e9c58d8bf12e4e679316172.m3u8
+#EXTINF:-1, GTC News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/gtc-news-451-3389e58efeed12ba84cd5589.m3u8
+#EXTINF:-1, Daily Post
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/daily-post-452-830d62900cd79520a48cad97.m3u8
+#EXTINF:-1, WPN World Punjabi News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/wpn-world-punjabi-news-453-1024c26baeb671b5b21cc16c.m3u8
+#EXTINF:-1, News Leader
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-leader-454-b6244ce27722264bd81c6f8e.m3u8
+#EXTINF:-1, TV7 National
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv7-national-455-30ae15e5f4f1e613f80124ed.m3u8
+#EXTINF:-1, TV7 Bharat
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv7-bharat-456-a711fcb8ea249531a8d84927.m3u8
+#EXTINF:-1, Zingabad
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zingabad-457-c9e453c00c761fe54b3d63e5.m3u8
+#EXTINF:-1, News Malayalam
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/news-malayalam-458-4219cfd9beb911817070762f.m3u8
+#EXTINF:-1, E24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/e24-459-c995c3fd2fbd1ddc008524a8.m3u8
+#EXTINF:-1, Media 9 News
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/media-9-news-460-110e9b8b5c332025e41dacee.m3u8
+#EXTINF:-1, Aastha TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/aastha-tv-461-cc39afccf7bffb7b503958e7.m3u8
+#EXTINF:-1, Arihant
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/arihant-462-7cf065ffc245f4d6711affce.m3u8
+#EXTINF:-1, Vedic
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vedic-463-ba12859083d97620b56e3b21.m3u8
+#EXTINF:-1, Colors cineplex SG
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-cineplex-sg-464-cd9761c4c85d75dc69a8a555.m3u8
+#EXTINF:-1, Asianet TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/asianet-tv-465-f168a2849b7054acad9fb438.m3u8
+#EXTINF:-1, Kalaignar TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kalaignar-tv-466-8ce39c5d534cccd44f6cb35d.m3u8
+#EXTINF:-1, Sirippoli TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sirippoli-tv-467-3a53e3756e8b0f01c4b3530c.m3u8
+#EXTINF:-1, Chithiram TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/chithiram-tv-468-92cccc9505389c845f856f0b.m3u8
+#EXTINF:-1, Isai Aruvi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/isai-aruvi-469-e623fcc2771fef4973a28a06.m3u8
+#EXTINF:-1,SOMOY TV HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/somoy-tv-hd-470-34522e2e8a16dc167c878927.m3u8
+#EXTINF:-1,AKASH AHTT
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/akash-ahtt-475-25442e8b118b1bb75413ac6a.m3u8
+#EXTINF:-1,ZEE BANGLA CINE SD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-bangla-cine-sd-476-fd6d3fb11a55ea6df5448fde.m3u8
+#EXTINF:-1,GOLDMINES
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/goldmines-477-e4123a19e5268742878c46a7.m3u8
+#EXTINF:-1,Bengali Beats
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bengali-beats-478-d24f831dad80e1285ba85f22.m3u8
+#EXTINF:-1,Channel 24
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/channel-24-479-9edb4de121ddd7895cd7d3da.m3u8
+#EXTINF:-1,Doyel TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/doyel-tv-480-453f822378610c6b55b63265.m3u8
+#EXTINF:-1,Sananda TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sananda-tv-483-9178fa82a6d38bff918ad5d8.m3u8
+#EXTINF:-1,Thikana
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/thikana-484-13703af32e513ac30a303df1.m3u8
+#EXTINF:-1,Aakaash Aath
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/aakaash-aath-485-2825760191d8d8bc1b88feb9.m3u8
+#EXTINF:-1,Alankar TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/alankar-tv-486-0319f21c5503c244b26530c0.m3u8
+#EXTINF:-1,BHI Channel
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bhi-channel-488-b617129dd73e48fbc6c3446b.m3u8
+#EXTINF:-1,DD Tripura
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-tripura-489-5b4a4d87f6acd754a45fa47d.m3u8
+#EXTINF:-1,Dhoom Music Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dhoom-music-bangla-490-24ae5475fdb4dfbf357b2468.m3u8
+#EXTINF:-1,Khushboo Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/khushboo-bangla-491-ef36157d2622aed0f1856344.m3u8
+#EXTINF:-1,Ruposhi Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ruposhi-bangla-493-ed9e982cf21e934c03e511b2.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sangeet-bangla-494-a79dfa68583f10201a0cb532.m3u8
+#EXTINF:-1,U Bangla
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/u-bangla-497-09667a28d4c1fbc9cde6a552.m3u8
+#EXTINF:-1,B4U Kadak
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/b4u-kadak-498-6843033bf8a43f35336786ee.m3u8
+#EXTINF:-1,Bhojpuri Cinema
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/bhojpuri-cinema-499-bb5de6978387ab766b9be70a.m3u8
+#EXTINF:-1,Epic Bhojpuri
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epic-bhojpuri-500-4af41cc6d4e7abd0411456c8.m3u8
+#EXTINF:-1,Epic Bhojpuri Digital
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epic-bhojpuri-digital-501-225785ff56139947e3903340.m3u8
+#EXTINF:-1,Goldmines Action
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/goldmines-action-502-23dd40d32b1fa041cacf9be2.m3u8
+#EXTINF:-1,Goldmines Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/goldmines-movies-503-b64bc8ef746f8f5a82cd32b0.m3u8
+#EXTINF:-1,Hindi Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hindi-movies-504-31b905e1184a677bbc65656e.m3u8
+#EXTINF:-1,Kairali Arabia
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kairali-arabia-506-303600e6a313c3a5a6e11dc9.m3u8
+#EXTINF:-1,Kairali TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kairali-tv-507-44a00e20826c35b26fbaa61e.m3u8
+#EXTINF:-1,Kairali We
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kairali-we-508-f0ee5dc5f3d5248e4c2e50b5.m3u8
+#EXTINF:-1,MBC Bollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mbc-bollywood-509-6a8be646893273dad08305ec.m3u8
+#EXTINF:-1,MH One Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mh-one-movies-510-4ce9797afede243ff54cc3c4.m3u8
+#EXTINF:-1,MNTV (Tamil)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mntv-tamil-511-85762f65b63ace7c2706cde2.m3u8
+#EXTINF:-1,NH BollyFlix
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nh-bollyflix-512-f25eded22beb2f755523f81b.m3u8
+#EXTINF:-1,Public Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/public-movies-513-3461b09706d88a0e47972ab1.m3u8
+#EXTINF:-1,Roja Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/roja-movies-514-8a3b263f8ebaa7c0f82b6c72.m3u8
+#EXTINF:-1,Shemaroo Bollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/shemaroo-bollywood-515-f691e772beb2789b85a8026e.m3u8
+#EXTINF:-1,Shubh Cinema TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/shubh-cinema-tv-516-b56d33cb53e26acea11da849.m3u8
+#EXTINF:-1,South Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/south-movies-517-21d9cc2471669392156b33ae.m3u8
+#EXTINF:-1,South Station
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/south-station-518-b73c54ef0a820ef20c214529.m3u8
+#EXTINF:-1,Star Maa Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-maa-movies-519-0e0bc8425fd86e773b3d577c.m3u8
+#EXTINF:-1,7S Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/7s-music-520-d541a4232c5b123130a30c56.m3u8
+#EXTINF:-1,7X Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/7x-music-521-bb7c66b7040aca08b0ad226c.m3u8
+#EXTINF:-1,8XM
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/8xm-522-95bcc5d9b208ae6d13ace2a8.m3u8
+#EXTINF:-1,Aaryaa TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/aaryaa-tv-523-f39ec1246b02008c610c7dc9.m3u8
+#EXTINF:-1,Deewana HD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/deewana-hd-524-ed291a3227af5f0b50b7e723.m3u8
+#EXTINF:-1,Desi Channel
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/desi-channel-525-b48e890c2a26bee33d5647f5.m3u8
+#EXTINF:-1,Epic Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epic-music-526-dac7168e5933cfc00366a865.m3u8
+#EXTINF:-1,ETV Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/etv-music-527-022040c172a7b37c133b3f5e.m3u8
+#EXTINF:-1,Joo Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/joo-music-528-34d1b78a67770330c84ea7b4.m3u8
+#EXTINF:-1,Music India
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/music-india-529-05ebbd64d427daa0ab55355c.m3u8
+#EXTINF:-1,NH BollyRaga
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nh-bollyraga-530-f67946307c5e4f07c3dab02b.m3u8
+#EXTINF:-1,Only Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/only-music-531-fb3391deb722c76f2baf80c1.m3u8
+#EXTINF:-1,PTC Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ptc-music-532-c0436f7d34354031196814b3.m3u8
+#EXTINF:-1,Public Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/public-music-533-f0b8e58fc6efd7fa8de20889.m3u8
+#EXTINF:-1,Raj Musix Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/raj-musix-kannada-534-a4965ec09c93018781e4c075.m3u8
+#EXTINF:-1,Raj Musix Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/raj-musix-tamil-535-a97614ed2d0c5478f37438d1.m3u8
+#EXTINF:-1,Ramdhenu
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ramdhenu-536-5fabc5abeed546a2104bbffb.m3u8
+#EXTINF:-1,Sana Plus
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sana-plus-537-cf3113089af2b821f13de82d.m3u8
+#EXTINF:-1,Steelbird Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/steelbird-music-538-80e335704c52a9918e79c527.m3u8
+#EXTINF:-1,Sun Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sun-music-539-a3fdb05facf86b2d12f7c399.m3u8
+#EXTINF:-1,Tarang Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tarang-music-540-c22ecfc83ed466f50ee006c3.m3u8
+#EXTINF:-1,Ultimate TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ultimate-tv-541-f089e0615e85e091a353dd1e.m3u8
+#EXTINF:-1,Amrita TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amrita-tv-542-b97b4ef235c2d6dee1f0c184.m3u8
+#EXTINF:-1,Colors Cineplex [UK]
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-cineplex-uk-544-864b9227f3a9f7a6c07a86dc.m3u8
+#EXTINF:-1,Colors Rishtey
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/colors-rishtey-545-a26bb838e1bd44b49ca1e831.m3u8
+#EXTINF:-1,Darshana TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/darshana-tv-546-3c04cd9b1a9f15144ff10042.m3u8
+#EXTINF:-1,DD Arun Prabha
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-arun-prabha-547-b1a5eb98190fd4274941ba73.m3u8
+#EXTINF:-1,DD Assam
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-assam-548-34fa2749e831f68a76c3eaa1.m3u8
+#EXTINF:-1,DD Chandana
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-chandana-549-b93c4fe8895eb6a9726adc74.m3u8
+#EXTINF:-1,DD Girnar
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-girnar-550-ed54d6afc9339cfee4572922.m3u8
+#EXTINF:-1,DD Goa
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-goa-551-a94151b1619c79fdb2417252.m3u8
+#EXTINF:-1,DD Haryana
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-haryana-552-51163fd1b011d25c41c70921.m3u8
+#EXTINF:-1,DD Himachal Pradesh
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-himachal-pradesh-553-1d7b4bb48a6b6f8209e69a7d.m3u8
+#EXTINF:-1,DD Jharkhand
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-jharkhand-554-2cb92762742907f69960d878.m3u8
+#EXTINF:-1,DD Kashir
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-kashir-555-f8e764f828773af05378c5cd.m3u8
+#EXTINF:-1,DD Malayalam
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-malayalam-556-57d975a97f43fc589f3b28b3.m3u8
+#EXTINF:-1,DD Manipur
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-manipur-557-10c23ec5ecb86ce54f3db9d6.m3u8
+#EXTINF:-1,DD Meghalaya
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-meghalaya-558-8d2285c616af5488f98f9ae4.m3u8
+#EXTINF:-1,DD Nagaland
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-nagaland-559-3098cb5f4e69d1ebd2553e7c.m3u8
+#EXTINF:-1,DD Odia
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-odia-560-8d0cba9c9d3f7b7756755d67.m3u8
+#EXTINF:-1,DD Punjabi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-punjabi-561-c27db2b29e7a43043f60c6a5.m3u8
+#EXTINF:-1,DD Sahyadri
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-sahyadri-562-3685105cd60dcf1b8dba163f.m3u8
+#EXTINF:-1,DD Saptagiri
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-saptagiri-563-441430f4a6db44044d9321e6.m3u8
+#EXTINF:-1,DD Tamil
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dd-tamil-564-26a0210886a432cb3d97491e.m3u8
+#EXTINF:-1,Epic Bharat
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epic-bharat-565-0a8dd210bf9d41f29fad7b06.m3u8
+#EXTINF:-1,Epic TV Digital
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/epic-tv-digital-566-c65ce1b6531b0abf74b6c6cd.m3u8
+#EXTINF:-1,ETV Comedy
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/etv-comedy-567-35e0ab1e58c5c6bc9f967321.m3u8
+#EXTINF:-1,ETV Josh
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/etv-josh-568-1e436227e1a8bab747e93d12.m3u8
+#EXTINF:-1,Fakt Marathi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fakt-marathi-569-b1f95a23717617396e6773b4.m3u8
+#EXTINF:-1,Flowers US
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/flowers-us-570-eac867bc2af7619f53167c45.m3u8
+#EXTINF:-1,HUM TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/hum-tv-571-ca15a7587c59f3cdd7960a72.m3u8
+#EXTINF:-1,Kalaignar Murasu
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kalaignar-murasu-572-ac7eb1df44dbc10b3564f560.m3u8
+#EXTINF:-1,Manoranjan Prime
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/manoranjan-prime-573-ececd609a056fa683942fd91.m3u8
+#EXTINF:-1,Mei Alai TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mei-alai-tv-574-b53ca97652d00382114bcdc2.m3u8
+#EXTINF:-1,Metro TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/metro-tv-575-659862b0502d195caa0926a4.m3u8
+#EXTINF:-1,MH One Dil Se
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mh-one-dil-se-576-8984f95eb8c16a1e40cc9d03.m3u8
+#EXTINF:-1,MH One Prime
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mh-one-prime-577-0a65e449ee244b324597607b.m3u8
+#EXTINF:-1,Nazara
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nazara-578-6505bea7833eae61d20ff9cc.m3u8
+#EXTINF:-1,NKR TV Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/nkr-tv-kannada-579-53eca21eacf38e188931b0a6.m3u8
+#EXTINF:-1,One Paschima
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/one-paschima-580-a79e5ce3afce38eac2f6e149.m3u8
+#EXTINF:-1,Pardesi TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/pardesi-tv-581-520dc72e2ac68572c3b0ea54.m3u8
+#EXTINF:-1,PTC Punjabi
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ptc-punjabi-582-cb8a8a0836f841a48f9e1c45.m3u8
+#EXTINF:-1,PTC Punjabi Gold
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ptc-punjabi-gold-583-18fff4774911239176ddfd9f.m3u8
+#EXTINF:-1,Q TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/q-tv-584-4af4bc05f7265d498ec1acad.m3u8
+#EXTINF:-1,SADA TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sada-tv-585-c6e4d6340d0146a5a95a3114.m3u8
+#EXTINF:-1,Shemaroo Josh
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/shemaroo-josh-586-0c7037d6dd0926a8968771aa.m3u8
+#EXTINF:-1,Siri Kannada
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/siri-kannada-587-11d602d69d29154293d182bf.m3u8
+#EXTINF:-1,Siri Kannada All Time
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/siri-kannada-all-time-588-15f8a9c286d422a47a2e1d6d.m3u8
+#EXTINF:-1,Sony Entertainment TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sony-entertainment-tv-589-8740c29317c4f41fb9a6e92d.m3u8
+#EXTINF:-1,Sony SAB [Backup 1]
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sony-sab-backup-1-590-999a9d0bfaf32403771ae897.m3u8
+#EXTINF:-1,Star Maa
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/star-maa-591-938e3223eb64ed364918331c.m3u8
+#EXTINF:-1,Studio Yuva
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/studio-yuva-592-678755df7077a653aaff29c0.m3u8
+#EXTINF:-1,Subin TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/subin-tv-593-809e89b8bfb1967b8c9502d3.m3u8
+#EXTINF:-1,Suriya TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/suriya-tv-594-503e3f9605ab857ea79d14f3.m3u8
+#EXTINF:-1,Tamilan TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tamilan-tv-595-20994525cad68030dab9e083.m3u8
+#EXTINF:-1,Thanthi One
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/thanthi-one-596-918851b6d6cbdc37d3b74782.m3u8
+#EXTINF:-1,&TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/tv-597-35244a72ed51256e1594023a.m3u8
+#EXTINF:-1,Vanitha TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vanitha-tv-598-47c13c5328d1e6b3ce92a9af.m3u8
+#EXTINF:-1,Vasanth TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vasanth-tv-599-4d952da6645bf2c0ab4433ad.m3u8
+#EXTINF:-1,Vissa TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vissa-tv-600-ccb1f7f33a87edadf2e1d437.m3u8
+#EXTINF:-1,Zee TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/zee-tv-601-a258d090f8de0213c442f245.m3u8
+#EXTINF:-1,AMC
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amc-602-65fecb8a45f1401aa2a9332a.m3u8
+#EXTINF:-1,AMC Triller
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amc-triller-603-a94120b69e433a603f0b4114.m3u8
+#EXTINF:-1,AMG TV (Classic)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/amg-tv-classic-605-fadea447ac77befb2a4445ea.m3u8
+#EXTINF:-1,Ava Family
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ava-family-606-584e5f740ea9df827efdf7ea.m3u8
+#EXTINF:-1,Ava Series
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ava-series-607-fd8d0391afef487f62645f54.m3u8
+#EXTINF:-1,Cine Action FR
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cine-action-fr-608-b7bfc44a74347ed43d4d29bf.m3u8
+#EXTINF:-1,Cinevault Westerns
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cinevault-westerns-610-29c0eee0713748064e8420e4.m3u8
+#EXTINF:-1,Circle
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/circle-611-17e9b827d6a5de65b978a0b5.m3u8
+#EXTINF:-1,Classic Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/classic-movies-612-30240c1d2c7190af75f9f40d.m3u8
+#EXTINF:-1,FX 1 Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fx-1-movies-613-681e748310a1901e38de1e4d.m3u8
+#EXTINF:-1,Grand Cinema
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/grand-cinema-614-5ddab13a9953ca291ea9df23.m3u8
+#EXTINF:-1,Gravitas Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/gravitas-movies-615-00dcd4ab267ad2aa5164fc7f.m3u8
+#EXTINF:-1,Great! Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/great-movies-616-d0e0b6e9a3632044ffe31983.m3u8
+#EXTINF:-1,Great! romance
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/great-romance-617-0ec893482a1d85d19d808286.m3u8
+#EXTINF:-1,GROOVE
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/groove-618-46ae014847a07e620c3ca6a1.m3u8
+#EXTINF:-1,K Cine
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/k-cine-619-9cb97f7d4cab24ce41c13379.m3u8
+#EXTINF:-1,Made in Hollywood
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/made-in-hollywood-620-1730fe63aef00215c4950429.m3u8
+#EXTINF:-1,Movie Dome Family
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/movie-dome-family-621-3c888e493cb2f3744b721a66.m3u8
+#EXTINF:-1,MovieSphere
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/moviesphere-622-2b00c68bdc4245c57f20a126.m3u8
+#EXTINF:-1,MovieSphere UK
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/moviesphere-uk-623-c73286aedad98175932ffdca.m3u8
+#EXTINF:-1,My Cinema
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/my-cinema-624-af7583742f8f6c608e8d2bb0.m3u8
+#EXTINF:-1,Mytime Movie
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mytime-movie-625-9d5c37759c82caf978199191.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mytime-movie-network-626-706f260dfa1aa678b65ee691.m3u8
+#EXTINF:-1,MyTime Movie Network BR
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mytime-movie-network-br-627-e4da11a9e129510660e852a6.m3u8
+#EXTINF:-1,Persiana Kore
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/persiana-kore-628-2a2d27814c8c80bf51986b28.m3u8
+#EXTINF:-1,Rakuten Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rakuten-movies-629-b61628009ecc8d232b3cc737.m3u8
+#EXTINF:-1,SL1
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sl1-630-2c9e41967c691c0fc459e23d.m3u8
+#EXTINF:-1,Sparkle Movies
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/sparkle-movies-631-1d33c0dbfb5a37f0ddf2e55b.m3u8
+#EXTINF:-1,The Walking Dead Universe
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/the-walking-dead-universe-632-57f2560533a7628da8672900.m3u8
+#EXTINF:-1,Toonami Aftermath Movie
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/toonami-aftermath-movie-633-69bb34ec04d8f69865ffdc1a.m3u8
+#EXTINF:-1,1Mus
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/1mus-634-b316fcc393e6b73f1cb78892.m3u8
+#EXTINF:-1,30A Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/30a-music-635-6a364acd0f3eed967ed651ab.m3u8
+#EXTINF:-1,Academy TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/academy-tv-636-eca769f26341b6a6a3c7de57.m3u8
+#EXTINF:-1,Afn TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/afn-tv-637-227305a0f2cd774339a12f3b.m3u8
+#EXTINF:-1,Afrobeats
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/afrobeats-638-6bcc83c554b8073fe8bc512f.m3u8
+#EXTINF:-1,Albania Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/albania-music-639-167e719333c9d204c22a172c.m3u8
+#EXTINF:-1,Arabica TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/arabica-tv-640-a780d60a25ad3a55e460d8f6.m3u8
+#EXTINF:-1,Atomic TV (Romania)
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/atomic-tv-romania-641-cc50f376f48a411d29461c9d.m3u8
+#EXTINF:-1,Baraza Music TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/baraza-music-tv-642-e42a20f8495074563dfaddb2.m3u8
+#EXTINF:-1,BIZ Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/biz-music-643-952bee4134b8296b8ae2bb81.m3u8
+#EXTINF:-1,Blues TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/blues-tv-644-638f063f71c979e71bdf9ac7.m3u8
+#EXTINF:-1,CMC TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/cmc-tv-645-f8a16ab6b1cafd590edfb029.m3u8
+#EXTINF:-1,Dance TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/dance-tv-646-cacbfb38d4ff768a06d2e38a.m3u8
+#EXTINF:-1,Fon Music Tnt Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/fon-music-tnt-music-647-93265280353ac21f3ae84f0d.m3u8
+#EXTINF:-1,Kronehit TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/kronehit-tv-648-9ed42674386872391322e6d1.m3u8
+#EXTINF:-1,M20 Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/m20-music-649-03cd3f38161b998b9b7f005e.m3u8
+#EXTINF:-1,MAD
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mad-650-a06c82d2ca7b0e69a0862544.m3u8
+#EXTINF:-1,MTV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/mtv-651-f343efea6958390fc3a41532.m3u8
+#EXTINF:-1,NOW 70s
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/now-70s-652-d4c99d5196e1ba03164c89f1.m3u8
+#EXTINF:-1,NOW 80's
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/now-80-s-653-9fd27ef5bba0ca6c32520c48.m3u8
+#EXTINF:-1,Now Rock
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/now-rock-654-338cad2bde710f6e7fbe5c97.m3u8
+#EXTINF:-1,Ocko Expres
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/ocko-expres-655-6ea96cc1823fb6d5a69948f0.m3u8
+#EXTINF:-1,Oxygen Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/oxygen-music-656-a696fed51c37daf12db4f072.m3u8
+#EXTINF:-1,P2M TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/p2m-tv-657-592928c3ada02ce994cc8d89.m3u8
+#EXTINF:-1,Qello Concerts by Stingray
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/qello-concerts-by-stingray-658-2ba8f91d62e3daeb7daa2994.m3u8
+#EXTINF:-1,Retro Music TV
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/retro-music-tv-659-fe4fff7268ddbe3c7aa6fa0e.m3u8
+#EXTINF:-1,Rouge TV [Switzerland]
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/rouge-tv-switzerland-660-cbdb8b887c91f9324ef197fa.m3u8
+#EXTINF:-1,Stingray Classic Rock
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/stingray-classic-rock-661-0241fb05842634928e3f3151.m3u8
+#EXTINF:-1,Stingray DJAZZ
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/stingray-djazz-662-e04fe552ec007c78dbb8edc9.m3u8
+#EXTINF:-1,Stingray Easy Listening
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/stingray-easy-listening-663-79b58e7c91519f1e7fea30cb.m3u8
+#EXTINF:-1,Stingray Remember the 80s
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/stingray-remember-the-80s-664-4e60fb9943af597fa75dfc76.m3u8
+#EXTINF:-1,Stingray Today's KPOP
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/stingray-today-s-kpop-665-53a5f106a813a3fe2dd54f9b.m3u8
+#EXTINF:-1,Trace Latino
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/trace-latino-666-c639b9e1ae2eb46ffecca940.m3u8
+#EXTINF:-1,Trace Uk
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/trace-uk-667-327e8c88409f540ba3878688.m3u8
+#EXTINF:-1,Trace Urban
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/trace-urban-668-cae237db2bd7d20e4459404c.m3u8
+#EXTINF:-1,TRT Music
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/trt-music-669-3139955e2ab81e0691a6d619.m3u8
+#EXTINF:-1,V2BEAT
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/v2beat-670-356b2f377c94c8757041711a.m3u8
+#EXTINF:-1,Vevo '70s & '80s
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vevo-70s-80s-671-c76c0d2cd61d30c06293f0c6.m3u8
+#EXTINF:-1,Vevo '90s & '00s
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vevo-90s-00s-672-d1b4fb6aa584ea3092f93c69.m3u8
+#EXTINF:-1,Vevo Hip Hop & R&B
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vevo-hip-hop-r-b-673-706da5d5026e2757ff566b1d.m3u8
+#EXTINF:-1,Vevo Pop
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/vevo-pop-674-3af4adf32a9a7f93e8bb1230.m3u8
+#EXTINF:-1,XITE
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/xite-675-796751060045df7f9996444a.m3u8
+#EXTINF:-1,XITE Hits
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/xite-hits-676-cd3cc7dea798200c64b1acd9.m3u8
+#EXTINF:-1,60 Days In by A&E
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/60-days-in-by-a-e-677-90bd5ccddc24a18fe52216b2.m3u8
+#EXTINF:-1,Alone By History
+https://hmair-webproxy-playlist.xubilas-era.workers.dev/c/alone-by-history-678-fee9e3b7cbce4e60cc1d7220.m3u8
