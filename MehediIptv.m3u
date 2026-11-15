@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 2" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ২
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৩
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 4" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৪
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৫
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 6" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৬
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 7" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৭
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৮
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৯
-https://your-stream-link-here.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 10" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ১০
-https://your-stream-link-here.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Live Event",
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246
