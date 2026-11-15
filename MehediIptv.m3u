@@ -1,3 +1,4 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?client=ms-android-transsion&hs=JzKW&sca_esv=1a73dd2439b22e8b&sxsrf=AKL5yDiFeQrSRHW6e33SUqvN1cDd-D64qw:1794722409760&udm=2&fbs=ACAhTvyMeLLt4CSLPOvnuaeemILr_0sxzrSBzgtWY7QaYh2MFN3B1tGCl-wXcw8QSK2reHIBPiDnIY51cl-pIjDDvGqPZe0_yrkIvR0_ksMhUMSov-EHzOn4VqC5phHDJTFtr2mmwR17i9svNnz1id6a-SUiiSVwAJnfpXh5SGGniZUOJ7Yvtu2bPrOxyaq3uKfZKYegs_dsV_DYDS-LD6O6M0acjSNLaXg70VDdU-Rfo-_BdxC7XC5y9R7cpsjKnlqbuZgUHZ6p&q=live+sports&sa=X&sqi=2&ved=2ahUKEwigyND9pYmYAxVBdmwGHaHNEkgQtKgLegQIExAB&biw=360&bih=678&dpr=3#sv=CAMSVxoyKhBlLWoyUndZX0Z2eC1fSWhNMg5qMlJ3WV9GdngtX0loTToORTkxN3lqWHJ2amZpeU0gBCoXCgFzEhBlLWoyUndZX0Z2eC1fSWhNGAEwAUoECAEQAhgHIJPD-e8BSggQAhgBIAIoAQ" group-title="Live Event",               https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Live Event"
+    https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246    
