@@ -5,12 +5,18 @@
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+
+
 #EXTINF:-1 tvg-id="PRIME ENG FHD" tvg-name="PRIME ENG FHD" tvg-logo="" group-title="Sports",PRIME ENG FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd
 
-‎#EXTINF:-1 tvg-id="FANCODE FHD" tvg-name="FANCODE FHD" tvg-logo="" group-title="Sports",FANCODE FHD
-‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-‎https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="FANCODE FHD" tvg-name="FANCODE FHD" tvg-logo="" group-title="Sports",FANCODE FHD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd
+
+‎
