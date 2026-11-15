@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ১
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 2" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ২
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৩
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 4" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৪
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৫
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 6" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৬
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 7" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৭
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৮
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ৯
+https://your-stream-link-here.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 10" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ১০
+https://your-stream-link-here.m3u8
