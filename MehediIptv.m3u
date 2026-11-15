@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6ZElRo-UD2Yxyr-U1SaIffpUrB0pDmGkU2q-Pke66CPMzr-TdV2m0qqLjPjEU9Dqwx4m_IUVrTTWdOUb7dSOKw" group-title="Live Event" Ind vs Nz
-    https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246    
+‎#EXTINF:-1 tvg-name="TNT SPORTS FHD" group-title="Sports",TNT SPORTS FHD
+‎#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+‎#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+‎https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
