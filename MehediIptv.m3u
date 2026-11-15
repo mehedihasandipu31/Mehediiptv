@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="My Channels",Tapmad  https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/",
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="My Channels",Tapmad  https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel 2" tvg-logo="" group-title="My Channels",চ্যানেলের নাম ২
 https://your-stream-link-here.m3u8
